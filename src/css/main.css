@@ -1,0 +1,891 @@
+*{
+    box-sizing: border-box;
+}
+
+.el-tabs__item{
+    height: 21px;
+    color: #013e2c;
+    line-height: 13px;
+    background: #cfdbd9;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 4px 10px 4px 9px!important;
+    margin-right: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom: 1px solid #013e2c!important;
+}
+.el-tabs__item#tab-diagnostic{
+    margin-right: 0px;
+}
+.el-tabs__item:nth-child(1) {
+    padding: 4px 10px 4px 11px!important;
+}
+.el-tabs__item:last-child {
+    padding: 4px 11px 4px 11px!important;
+}
+.el-tabs__item.is-active{
+    top: -1.3px;
+    color: #013e2c;
+    background: white;
+    border-bottom: 1px solid white!important;
+}
+.el-tabs__item:hover{
+    color: #013e2c;
+}
+.el-tabs__nav{
+    height: 21px;
+    border:0!important;
+}
+.uaz__tooltip {
+    border-radius: 3px;
+    color: #013e2c;
+    font-size: 10px!important;
+    font-weight: 200;
+    border: 1px solid #013e2c!important;
+    white-space: nowrap;
+    background-color: #cfdbd9!important;
+    /*text-transform: capitalize;*/
+}
+.uaz__tooltip.uaz__tooltip-top.el-popper.is-light, .uaz__tooltip.uaz__tooltip-top-right.el-popper.is-light, .uaz__tooltip.uaz__tooltip-top-left.el-popper.is-light {
+    text-transform: none;
+}
+.el-popper__arrow{
+    background-color: #cfdbd9!important;
+}
+.el-popper.is-light .el-popper__arrow::before{
+  background-color: #cfdbd9!important;
+  border-left: 1px solid #013e2c!important;
+  border-bottom: 1px solid #013e2c!important;
+}
+.uaz__tooltip-top:after {
+    bottom: -4px;
+    right: 50%;
+    margin-left: -6px;
+    border-top: 9px solid #cfdbd9;
+    border-left: 9px solid transparent;
+    transform: rotate(134deg);
+    -ms-transform: rotate(134deg);
+    -webkit-transform: rotate(134deg);	
+}
+.uaz__tooltip-top-left:after {
+    bottom: -4px;
+    right: 36%;
+    margin-left: -6px;
+    border-top: 9px solid #cfdbd9;
+    border-left: 9px solid transparent;
+    transform: rotate(134deg);
+    -ms-transform: rotate(134deg);
+    -webkit-transform: rotate(134deg);	
+}
+.uaz__tooltip-top-right:after {
+    bottom: -4px;
+    right: 26%;
+    margin-left: -6px;
+    border-top: 9px solid #cfdbd9;
+    border-left: 9px solid transparent;
+    transform: rotate(134deg);
+    -ms-transform: rotate(134deg);
+    -webkit-transform: rotate(134deg);
+}
+.uaz__tooltip-bottom:after {
+    top: -4px;
+    left: 50%;
+    margin-left: -6px;
+    border-bottom: 9px solid #cfdbd9;
+    border-right: 9px solid transparent;
+    transform: rotate(134deg);
+    -ms-transform: rotate(134deg);
+    -webkit-transform: rotate(134deg);	
+}
+.uaz__tooltip-right:after {
+    left: -4px;
+    top: 50%;
+    margin-top: -6px;
+    border-bottom: 9px solid #cfdbd9;
+    border-right: 9px solid transparent;
+    transform: rotate(45deg);	
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.uaz__tooltip-left:after {
+    right: -4px;
+    top: 50%;
+    margin-top: -6px;
+    border-top: 9px solid #cfdbd9;
+    border-left: 9px solid transparent;
+    transform: rotate(45deg);	
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.uaz__tooltip-bottom:after, .uaz__tooltip-left:after, .uaz__tooltip-right:after, .uaz__tooltip-top:after, .uaz__tooltip-top-left:after, .uaz__tooltip-top-right:after {
+    content: '';
+    height: 0;
+    position: absolute;
+    width: 0;
+}
+html {
+    --scrollbarBG: #cfdbd9;
+    --thumbBG: #7fa099;
+}
+.uaz_div_with_scroll{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.uaz_div_with_scroll::-webkit-scrollbar{
+    width: 20px;
+    overflow: hidden;
+}
+.uaz_div_with_scroll::-webkit-scrollbar-track{
+    background: var(--scrollbarBG);
+}
+.uaz_div_with_scroll::-webkit-scrollbar-thumb{
+    background-color: var(--thumbBG);
+    border-radius: 8px;
+    border: 5px solid var(--scrollbarBG);
+    background-clip: content-box;
+}
+
+
+.uaz-indent-card .input_password {
+    /*display: unset; - мешает в регистрации*/
+}
+.uaz-indent-card .input_password input {
+    width: 429px;
+    height: 25px;
+    padding: 0 12px;
+    font-size: 10px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #b8bdc0;
+    border-radius: 3px;
+}
+.uaz-indent-card .input_password input:focus {
+    border-color: #013e2c;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #cfdbd9;
+}
+.uaz-connection .input_password input:focus {
+    border-radius: 3px;
+}
+
+g[isLink] path, g[isLink] polygon, g[isLink] rect, g[selected] path, g[selected] polygon, g[selected] rect {
+    stroke: red!important;
+    stroke-width: .75!important;
+    stroke-dasharray: 0!important;
+}
+.uaz__header{
+    cursor: pointer;
+}
+
+body,html {
+    height: 100%;
+}
+
+div#app {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.uaz_content_container {
+    height: 100%;
+    overflow: hidden;
+	/*иллюстрация(карусель)ЗЧ:при выборе числа левого блока, со скроллом правого блока всё уходило вверх*/
+    display: flex;
+    flex-direction: column;
+}
+.uaz_parts_container {
+    height: 100%;
+}
+.uaz_parts_footer {
+    height: 30%;
+}
+.carousel {
+    border: 2px solid #b8bdc0;
+    /*padding: 5px 0;
+	height: 100%;*/
+	height: 150px;
+}
+.carousel__slide {
+    border: 1px solid black;	
+    margin: 7px 4px 0;
+    max-width: calc(-80px + 260px);
+    min-width: calc(-80px + 260px);
+	align-items: start;
+}
+.carousel__slide img {
+    width: 92%;
+    height: 84%;
+	margin: 6px 0;
+    border: 2px solid #cfdbd9;
+    cursor: pointer;
+}
+.carousel__viewport {
+    margin: 0px 43px 0px 40px;
+	height: 150px;
+}
+.carousel__track {
+	height: calc(100% - 15px);	
+}
+.carousel__prev, .carousel__next{
+    position: absolute;
+    top: 45%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-color: #cfdbd9;
+    border: 1px solid #cfdbd9;
+    border-radius: 10px;
+    width: 30px;
+    height: 88%;
+    margin: 5px;
+}
+.carousel__pagination-button {
+    display: none;
+}
+
+.uaz__header,.uaz__subheader{
+    flex: auto;
+}
+.uaz_parts_container {
+    flex: 1 1 100%;
+}
+.message_no_data{
+  font-size: 10px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+}
+.el-sub-menu__title{
+    padding:0;
+ }
+ ul.el-menu.el-menu--horizontal.el-menu-demo {
+    height: 67px;
+    border-bottom: 1px solid white;/*Header-док,язык,выход*/
+}
+ .el-sub-menu__title {
+     font-size: 10px;
+     font-weight: 600;
+     font-family: arial;
+     position: relative;
+     top: 3px;
+   padding-left: 10px!important;
+ }
+ .el-menu--horizontal>.el-sub-menu .el-sub-menu__icon-arrow{
+    margin-left: 3px;
+    margin-top: 0px;
+}
+.el-menu--horizontal>.el-sub-menu.is-active .el-sub-menu__title{
+    color:white;
+    border-bottom:0px;
+}
+ul.el-menu.el-menu--popup.el-menu--popup-bottom-start {
+    background: white;
+}
+.el-loading-spinner .path {
+  stroke: #00a65a;
+}
+div#tab-standtime {
+  padding-left: 10px!important;
+}
+.el-tabs__nav.is-top, div#tab-parts, div#tab-standtime, div#tab-flowcharts, div#flowcharts, div#tab-emaps, div#tab-diagnostic{
+  border-bottom: 2px solid #8a8f93!important;
+  height: 21px!important;
+}
+div#tab-parts.is-active, div#tab-standtime.is-active, div#tab-flowcharts.is-active, div#flowcharts.is-active, div#tab-emaps.is-active, div#tab-diagnostic.is-active{
+    border-bottom: 2px solid white!important;
+    height: 22px!important;
+  }
+/*.illustration_panel_zoomed, - правый блок Иллюстрации-уменьшало длину*/
+.uaz_parts_left_part,
+.uaz_parts_middle_part,
+.uaz_parts_right_part,
+.uaz_parts_content_groups_table,
+.uaz_parts_content_right_part,
+.uaz_parts_content_right_part_border, /*правый блок Иллюстрации*/
+.detail-collapse-tr .el-table__body-wrapper.is-scrolling-none, .table_download .el-table__body-wrapper.is-scrolling-none {
+  border-right: 1px solid #b8bdc0;
+  border-bottom: 1px solid #b8bdc0;
+  border-left: 1px solid #b8bdc0;
+}
+.header_submenu_select_option.el-popper.is-pure {
+    top: 45px!important; /*вспл.селекты в хедер:док и язык, не мешает НВ:ранее делал опцию сверху, а надо снизу*/
+}
+.standtime_submenu_select_option_header.el-popper.is-pure {
+    top: 107px!important;/*header-Запчасти:опция*/
+}
+.standtime_submenu_select_option.el-popper.is-pure {
+    top: 173px!important;/*НВ:опция*/
+}
+.standtime_submenu_select_option2.el-popper.is-pure {
+    top: 238px!important;/*НВ:опция*/
+}
+/*форма Регистрации*/
+.registration_switch .el-form-item__content {
+    margin-left: 0px!important;
+}
+/*форма Регистрации:"Я даю согласие на обработку персональных данных"-вправо уходил*/
+.registration_switch .el-form-item__error {
+    margin-right: -60px;
+}
+.wrapper_registration_input .el-form-item__content {
+    margin-left: 0px!important;
+    line-height: 25px;
+}
+.card_registration .el-input__inner {
+    display: block!important;
+    width: 445px!important;
+    height: 25px!important;
+    padding: 0 12px!important;
+    font-size: 10px!important;
+    line-height: 1.42857143;
+    color: #555!important;
+    background-color: #fff!important;
+    background-image: none!important;
+    border: 1px solid #b8bdc0!important;
+    border-radius: 3px!important;
+}
+.card_registration .el-input__inner:focus {/*форма Регистрации: зеленое подсвечивание инпута*/
+    border-color: #013e2c!important;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #cfdbd9;
+}
+.card_registration .el-form-item__error{/*форма Регистрации: кр.предупреждение*/
+    font-size: xx-small;
+    position: relative;
+    top: 0;
+    color: red;
+}
+.uaz_login_content_auth .el-form-item__error{/*Авторизация: кр.предупреждение*/
+    position: relative;
+    top: 0;
+    font-weight: 100;
+    color: red;
+}
+
+@media (max-width: 1279px) {
+  body {
+	overflow-x: scroll!important;
+  }
+}
+.table_download {
+    height: 100%;
+}
+.el-form-item.is-error .el-input__inner, 
+.el-form-item.is-error .el-input__inner:focus, 
+.el-form-item.is-error .el-textarea__inner, 
+.el-form-item.is-error .el-textarea__inner:focus {
+    border-color: red;
+}
+/*Сообщение*/
+.form_message .el-form-item__label { 
+    height: 25px;
+    font-size: 12px;
+    line-height: 15px;
+    max-width: 100%;
+    width: 160px!important;
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: #000;
+    word-break: normal;
+ }
+ .form_message .el-form-item {
+    margin-bottom: 6px;
+ }
+ .form_message .el-form-item__content {
+    line-height: 20px;
+}
+.form_message .upload-demo{
+    display: flex;
+}
+.form_message .el-input__inner {
+    display: block;
+    width: 100%;
+    height: 25px;
+    padding: 0 12px;
+    font-size: 10px;
+    line-height: 1.42857143;
+    color: #555!important;
+    background-color: #fff!important;
+    background-image: none;
+    border: 1px solid #b8bdc0;
+    border-radius: 3px;
+}
+/*Служба Поддержки(конвертик)-Максимум 10 файлов JPG/PNG общим размером до 10 Мб*/
+.form_message .el-upload__tip {
+    font-size: 12px;
+    padding: 0px 8px 0px 8px;
+    margin-bottom: auto;
+    font-weight: 400;
+    color: gray;    
+    word-break: break-word;
+    /*line-height: 0;*/
+}
+.form_message .el-upload-list{
+    margin-top: -6px;
+}
+.form_message .el-upload-list__item-name {
+    white-space: normal;
+    /*word-break: break-word;*/
+}
+.form_message .el-upload-list__item {
+    min-width: calc(-80px + 333px);
+}
+.form_message .el-upload-list__item-status-label{
+    top: 3px;
+}
+.form_message .form_upload {
+    display: inline-block;
+}
+.form_message .user_message {
+    display: inline-block;
+    width: 100%;
+}
+.form_message .user_message .el-form-item__content {
+    margin: 10px 0 0;
+}
+.form_message .user_message .el-form-item__content textarea {
+    display: block;
+    width: 100%;
+    height: 130px;
+    padding: 0 12px;
+    font-size: 10px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #b8bdc0;
+    border-radius: 3px;
+    font-size: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    resize: none;
+    overflow-y: auto;
+}
+.form_message .user_message .el-form-item__content textarea:focus,
+.form_message .user_lname .el-form-item__content input:focus,
+.form_message .user_email .el-form-item__content input:focus {
+    border-color: #013e2c;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #cfdbd9;
+}
+.form_message .user_message .el-textarea__inner::-webkit-scrollbar{
+    width: 20px;
+    overflow: hidden;
+}  
+.form_message .user_message .el-textarea__inner::-webkit-scrollbar-track{
+    background: var(--scrollbarBG);
+}  
+.form_message .user_message .el-textarea__inner::-webkit-scrollbar-thumb{
+    background-color: var(--thumbBG);
+    border-radius: 8px;
+    border: 5px solid var(--scrollbarBG);
+    background-clip: content-box;
+}
+.form_message .user_message .el-form-item__error, 
+.form_message .user_lname .el-form-item__error, 
+.form_message .user_email .el-form-item__error {
+    font-size: xx-small;
+    position: relative;
+    top: 0;
+    color: red;
+}
+.form_upload .el-form-item__content {
+    margin: 10px 0;
+}
+.form_message .el-button-upload {
+    max-width: 200px;
+    font-size: 12px;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    overflow: hidden;
+    padding: 10px 14px;
+    border: 2px solid #818181;
+    background: white;
+    color: #000;
+    border-radius: 1px;
+    min-height: 35px;
+}
+.form_message .el-button-upload:focus, .form_message .el-button-upload:hover, .form_message .el-button-upload:active {
+    color: #000;
+    border-color: #818181;
+    background: white;
+    outline: 0;
+}
+.form_message .el-button-upload svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    margin-right: 0.25em;
+}
+.form_message .user_submit {
+    width: 100%;
+    margin: 40px 0 0;
+    height: auto;
+    min-height: 61px;
+    text-align: right;
+    padding: 20px 0px;
+    border-top: 1px solid #eee;
+    float: right;
+}
+.form_message .user_submit .uaz-card-submit{
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    min-width: 135px;
+    min-height: 20px;
+    height: 20px;
+    color: #fff;
+    background-color: #013e2c;
+    font-weight: 700;
+    font-size: 10px;
+    padding: 0px;
+    text-transform: uppercase
+}
+  /*Диагностика: СЕАНС ДИАГНОСТИКИ->2иконка(гаечный ключ),всплывашка-убрала скролл снизу*/
+  .el-popover.uaz-diagnostic-panel-popover.el-popper.is-light {
+    overflow: hidden!important;
+  }
+
+  /*ЗЧ: скролл только для Таблицы, где vin-XTT236021*/
+  .el-table__header-wrapper {
+    background: #013e2c;/*ЗЧ:табk,где vin-XTT236021*/
+  }
+  .parts_table_vin .el-table td.el-table__cell:last-child {
+    border-right: 0px;
+  }
+  .parts_table_vin .parts_table_model_heading {/*ЗЧ: vin-XTT236021 - серая шапка и текст */
+    padding: 2px 5px 3px 5px;
+    border-top: 1px solid #fff;
+    background-color: #5e7772;
+    color: #fff;
+    font-size: 10px;
+    font-family: Arial;
+    font-weight: 600;
+  }
+.parts_table_vin .el-table--fit.el-table--scrollable-y.el-table--enable-row-hover.el-table--enable-row-transition.el-table {
+    height: 100%;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+  
+@media (max-width: 1340px) {
+  .search_input__long_parts, .search_input__long_flowcharts, .search_input__long_emaps {
+	width: 270px!important;
+  }
+}
+/*ЭС:табk,1cтолбец-по верх.краю*/
+.emaps_table .el-table__body-wrapper td:nth-child(1) {
+  vertical-align: top;
+}
+/*header: длина селектов - Год, Группа, Подгруппа, Иллюстрации*/
+.select_bar_wrapper .select_header_1 .el-input__inner {
+	width: 64px;
+}
+.select_bar_wrapper .select_header_2 .el-input__inner {
+	width: 50px;
+}
+.emaps_select .select_wrapper .select_header_2 .el-input__inner {
+	width: 80px;
+}
+.select_bar_wrapper .select_header_3 .el-input__inner {
+	width: 70px;
+}
+.emaps_select .select_wrapper .select_header_3 .el-input__inner {
+	width: 130px;
+}
+.select_bar_wrapper .select_header_4 .el-input__inner {
+	width: 95px;
+}
+.select_option_header .el-select-dropdown__item span {
+	font-size: 10px;
+    color: black;
+}
+/*Диагностика: Отчеты-зеленая шапка в таблице*/
+.diagnostic_report .el-table__header-wrapper {
+    overflow: visible;
+}
+/*Техкарты(ЗЧ-иконка)-скролл, 
+Диагностика: Отчеты, История-скролл, 
+Диагностика: структура - скролл (класс может повлиять и  вдругих местах, надо проверять-scroll_table_container),
+ЗЧ: Иллюстрации(карусель) правый блок - скролл,
+ЗЧ(Choose_modification): скролл,
+ЗЧ: скролл только для Таблицы, где vin-XTT236021,
+ЭС:скролл,
+Уведомление:скролл
+*/
+.scroll_table .el-table__body-wrapper, .scroll_table_container, .scroll_table .el-table__body, .uaz__bell .nav {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+}
+.table_auto_body .el-table__body{
+    height: auto;
+}
+.scroll_table .el-table__body-wrapper::-webkit-scrollbar,
+.scroll_table_container::-webkit-scrollbar,
+.uaz__bell .nav::-webkit-scrollbar,
+.uaz__bell_dialog .el-dialog__body::-webkit-scrollbar {
+    width: 20px;
+    overflow: hidden;
+}
+.scroll_table .el-table__body-wrapper::-webkit-scrollbar-track,
+.scroll_table_container::-webkit-scrollbar-track {
+    background: var(--scrollbarBG);
+}
+.scroll_table .el-table__body-wrapper::-webkit-scrollbar-thumb,
+.scroll_table_container::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG);
+    border-radius: 8px;
+    border: 5px solid var(--scrollbarBG);
+    background-clip: content-box;
+}
+.uaz__bell .nav::-webkit-scrollbar-thumb,
+.uaz__bell_dialog .el-dialog__body::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG);
+    border-radius: 8px;
+    border: 5px solid white;
+    background-clip: content-box;
+}
+/*модальное окно - сброс пароля по почте*/
+.modal_message .el-form-item__content, .modal_message .el-form-item {
+    margin: 0px!important;
+}
+/*XTT292400K1001038 - сворач.список(00502,вал)*/
+.flowcharts_wrapper .el-table td.el-table__cell div {
+    border: none;
+    font-size: 10px;
+}
+.flowcharts_wrapper .el-collapse-item__header, .flowcharts_wrapper .el-collapse-item__wrap {
+    background-color: #cfdbd9;
+}
+.flowcharts_wrapper .el-collapse-item__header {
+    height: 15px;
+}
+.column_width .el-collapse-item__header {
+	height: auto;
+    max-height: calc(100% - 177px);
+    min-height: calc(100% - 177px);
+    line-height: 1.5;
+}
+.flowcharts_wrapper .el-collapse-item__content {
+    padding-bottom: 0;
+    font-size: 10px;	
+}
+.flowcharts_wrapper .el-collapse-item__arrow {
+	margin-right: 15px;
+}
+.table_column_top .el-table__body-wrapper table tr td {
+    vertical-align: top;
+}
+/*ТК: табл.Модификация,Применимость*/
+.column_width col:nth-child(3) {
+    width: 100px;
+    max-width: calc(-80px + 260px);
+    min-width: calc(-80px + 260px);
+}
+.link .el-table td.el-table__cell:nth-child(2) div, .link_column {
+    color: #00008b;
+    cursor: pointer;
+}
+.link .el-table td.el-table__cell:nth-child(2) div:hover, .link_column:hover {
+    text-decoration: underline;
+}
+.el-table tr{
+    cursor: default;
+}
+/*подсветка у таблицы*/
+.table_highlight .el-table__body tr.current-row>td.el-table__cell {
+    border-bottom: 1px solid #013e2c;
+    border-top: 1.5px solid #013e2c;
+    background: #fff;
+	cursor: pointer;
+}
+.diagnostic_column_width col:nth-child(2) {
+    width: 300px;
+    max-width: calc(-80px + 500px);
+    min-width: calc(-80px + 500px);
+}
+/*колокольчик*/
+.bell {
+  top: 1px;
+  font-size: 15px!important;
+}
+.bell .bell_icon {
+  margin-bottom: 9px;
+}
+.bell .el-badge__content {
+    background: red;
+    border: 1px solid red;
+    right: 6px!important;
+    top: 27px;
+    height: 6px;
+    width: 6px;
+}
+/*Уведомление*/
+.uaz__bell .el-drawer__body {
+    padding: 0;
+    height: 100%;
+}
+.uaz__bell .nav {
+    max-height: calc(100% - 45px);
+}
+.uaz__bell .scroll_load_next {
+    max-height: calc(100% - 85px);
+}
+.uaz__bell .el-overlay {
+    background: none;
+}
+.uaz__bell #el-drawer__title {
+    display: flex;
+    justify-content: space-between;
+    background: #013e2c;
+    color: white;
+    border: none;
+    padding: 10px 10px 10px 16px;
+    margin: 0;
+    font-size: 22px;
+    font-weight: 100;
+    text-transform: capitalize;
+}
+.uaz__bell .el-drawer {
+    width: 400px!important;
+    height: auto;
+    top: 67px;
+}
+.uaz__bell .admin-menu span {
+    font-size: 22px;
+    font-weight: 100;
+}
+.uaz__bell ul {
+	padding: 0;
+	margin: 0;
+    list-style: none;
+    border-left: 1px solid silver;
+}
+.uaz__bell .admin-menu li > * {
+    width: 100%;
+    padding: 5px 0;
+    line-height: 1.4;
+}
+.uaz__bell li {
+    position: relative;
+    padding: 5px 15px 5px 5px;
+    background: #fff;
+}
+.uaz__bell li:before {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    right: 5px;
+    border-top: 1px solid silver;
+    content: "";
+}
+.uaz__bell .new_description {
+    font-size: 12px;
+    font-weight: 100;
+}
+.uaz__bell .new_description div {
+    padding: 0 0 4px;
+}
+.uaz__bell .date_detail {
+    display: flex;
+    justify-content: space-between;
+}
+.uaz__bell .new_date {
+    font-size: 12px!important;
+    color: #999;
+    white-space: normal;
+    font-weight: 600!important;
+}
+.uaz__bell .detail {
+    padding: 2px 4px;
+    font-size: 11.844px;
+    cursor: pointer;
+    text-decoration: underline;
+    color: #2067b0;
+}
+.uaz__bell .block_show_all {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-left: 1px solid silver;
+    background: #ebebeb;
+    padding: 10px 15px;
+    font-weight: 100;
+}
+.uaz__bell .show_all {
+    display: flex;
+    padding: 2px 4px;
+    font-size: 11.844px;
+    cursor: pointer;
+    flex-direction: row;
+    text-decoration: underline;
+    color: #2067b0;
+}
+/*колокольчик: н.модальное окно(возможно, нужно удалить лишнее)*/
+.uaz__bell_dialog, .uaz__auth_dialog {
+    font-weight: 100;
+    height: auto;
+    width: 1100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    --el-dialog-margin-top: 0vh!important;
+	text-transform: capitalize;
+}
+.uaz__auth_dialog {
+    width: 650px;
+}
+.uaz__auth_dialog .uaz-green, .uaz__auth_dialog ..uaz-indent {
+	left: 25%;
+}
+.uaz__auth_dialog .uaz-registration {
+    white-space: nowrap;
+}
+.uaz__bell_dialog .el-dialog__body, .uaz__auth_dialog .el-dialog__body {
+    max-height: calc(100vh - 75px)!important;
+}
+.uaz__bell_dialog .el-dialog__header, .uaz__auth_dialog .el-dialog__header {
+    position: relative;
+    height: 25px;
+    background-color: #013e2c;
+    padding: 0 5px;
+    line-height: 23px;
+}
+.uaz__bell_dialog .chr-grid-default, .uaz__auth_dialog .chr-grid-default {
+	padding: 50px 100px 20px 100px;
+    word-break: break-word;
+}
+.uaz__bell_dialog .el-dialog__title, .uaz__auth_dialog .el-dialog__title {
+    color: #fff;
+    font-weight: 100;
+}
+.el-dialog__title {
+	font-size: 10px!important;
+}
+/*колокольчик: к.модальное окно*/
+.el-overlay-dialog {
+    overflow: hidden auto!important;
+}
+/*колокольчик: н.модальное окно - скролл */
+.uaz__bell_dialog .el-dialog__body {
+	overflow-y: auto;
+    overflow-x: hidden;
+    max-height: calc(100vh - 250px);
+}
+.uaz__auth_dialog .uaz-login-content {
+    margin-top: 0px;
+}
+/*колокольчик: к.модальное окно - скролл */

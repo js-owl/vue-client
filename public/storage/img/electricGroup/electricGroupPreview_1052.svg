@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG 1.1.2 Шина передачи данных HS CAN (после 10.2017).svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st18">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:0.416656em}
+		.st3 {fill:#ffffff;font-size:1em}
+		.st4 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {font-size:1em}
+		.st7 {fill:#ffffff;stroke:#000000;stroke-dasharray:1.68,1.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st8 {fill:#d8d8d8;stroke:#000000;stroke-dasharray:1.68,1.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st9 {fill:#000000;font-family:Times New Roman;font-size:0.416656em;font-weight:bold}
+		.st10 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st11 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st12 {fill:#000000}
+		.st13 {stroke:#000000;stroke-dasharray:1.68,1.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st14 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st15 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st16 {fill:#000000;font-family:Times New Roman;font-size:0.499992em;font-weight:bold}
+		.st17 {fill:#ffffff;font-family:Times New Roman;font-size:1.16666em;font-weight:bold}
+		.st18 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Электрический" v:index="0"/>
+		<v:layer v:name="Соединительная линия" v:index="1"/>
+		<g id="shape1329-1" v:mID="1329" v:groupContext="shape" transform="translate(630.497,-224.787)">
+			<title>Лист.1329</title>
+			<desc>BU 0.5 144б</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BU 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">144</tspan><tspan class="st3" v:langID="1049">б</tspan></text>		</g>
+		<g id="shape1721-6" v:mID="1721" v:groupContext="shape" transform="translate(627.137,-363.743)">
+			<title>Лист.1721</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1722-8" v:mID="1722" v:groupContext="shape" v:layerMember="0" transform="translate(628.838,-365.286)">
+			<title>Контакт цепи.1722</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1723-10" v:mID="1723" v:groupContext="shape" transform="translate(608.225,-365.606)">
+			<title>Лист.1723</title>
+			<desc>J259 Я57(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.59464" cy="591.276" width="19.19" height="8"/>
+			<rect x="0" y="587.276" width="19.1893" height="8" class="st1"/>
+			<text x="8.74" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J259<v:newlineChar/><tspan
+						x="1.52" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan class="st3">5</tspan><tspan class="st3"
+						v:langID="1049">7</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3" v:langID="1049">10</tspan><tspan
+						class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1715-19" v:mID="1715" v:groupContext="shape" transform="translate(602.294,-313.278)">
+			<title>Лист.1715</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1716-21" v:mID="1716" v:groupContext="shape" v:layerMember="0" transform="translate(603.995,-314.821)">
+			<title>Контакт цепи.1716</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1717-23" v:mID="1717" v:groupContext="shape" transform="translate(580.056,-314.767)">
+			<title>Лист.1717</title>
+			<desc>J260 Я58(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.479" cy="591.276" width="20.96" height="8"/>
+			<rect x="0" y="587.276" width="20.958" height="8" class="st1"/>
+			<text x="10.51" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">2</tspan>60<v:newlineChar/><tspan x="3.29" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">58</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1349-32" v:mID="1349" v:groupContext="shape" transform="translate(627.108,-215.15)">
+			<title>Лист.1349</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1330-34" v:mID="1330" v:groupContext="shape" transform="translate(601.946,-193.442)">
+			<title>Лист.1330</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape905-36" v:mID="905" v:groupContext="shape" transform="translate(605.447,-175.717)">
+			<title>Лист.905</title>
+			<desc>GY 0.5 132</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">132</tspan></text>		</g>
+		<g id="shape906-40" v:mID="906" v:groupContext="shape" transform="translate(630.497,-175.717)">
+			<title>Лист.906</title>
+			<desc>BU 0.5 144</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BU 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">144</tspan></text>		</g>
+		<g id="shape907-44" v:mID="907" v:groupContext="shape" transform="translate(601.545,-161.606)">
+			<title>Лист.907</title>
+			<path d="M0 595.28 L37.42 595.28 L37.42 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1039-46" v:mID="1039" v:groupContext="shape" transform="translate(596.202,-129.858)">
+			<title>Лист.1039</title>
+			<path d="M0 595.28 L45.89 595.28 L45.89 562.82 L0 562.82 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1040-48" notetype="main" noteid="7819" v:mID="1040" v:groupContext="shape" transform="translate(580.852,-161.323)">
+			<title>Лист.1040</title>
+			<desc>С185</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С185</text>		</g>
+		<g id="shape1041-51" v:mID="1041" v:groupContext="shape" transform="translate(630.392,-161.323)">
+			<title>Лист.1041</title>
+			<desc>Н5</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>Н5</text>		</g>
+		<g id="shape1042-54" v:mID="1042" v:groupContext="shape" transform="translate(597.321,-129.858)">
+			<title>Лист.1042</title>
+			<desc>M103 Контроллер КМПСУД Ителма</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.9463" cy="581.669" width="45.9" height="27.2126"/>
+			<rect x="0" y="568.063" width="45.8926" height="27.2126" class="st1"/>
+			<text x="16.84" y="574.17" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M103<v:newlineChar/><tspan
+						x="9.27" dy="1.2em" class="st6" v:langID="1049">Контроллер </tspan><tspan x="11.47" dy="1.2em" class="st6"
+						v:langID="1049">КМПСУД<v:newlineChar/><v:paragraph v:horizAlign="1"/></tspan><tspan x="14.31" dy="1.2em"
+						class="st6" v:langID="1049">Ителма</tspan></text>		</g>
+		<g id="shape1119-60" v:mID="1119" v:groupContext="shape" transform="translate(1200.54,398.236) rotate(90)">
+			<title>Лист.1119</title>
+			<path d="M0 595.28 L39.69 595.28" class="st10"/>
+		</g>
+		<g id="shape1227-63" v:mID="1227" v:groupContext="shape" transform="translate(605.05,-161.323)">
+			<title>Лист.1227</title>
+			<desc>Н4</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>Н4</text>		</g>
+		<g id="shape1231-66" v:mID="1231" v:groupContext="shape" transform="translate(630.366,1033.2) rotate(180)">
+			<title>Лист.1231</title>
+			<path d="M0 595.28 L25.09 595.28" class="st10"/>
+		</g>
+		<g id="shape1232-69" v:mID="1232" v:groupContext="shape" transform="translate(614.868,-155.937)">
+			<title>Лист.1232</title>
+			<rect x="0" y="592.441" width="7.08661" height="2.83465" class="st11"/>
+		</g>
+		<g id="shape1328-71" v:mID="1328" v:groupContext="shape" transform="translate(605.447,-224.787)">
+			<title>Лист.1328</title>
+			<desc>GY 0.5 132б</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">132</tspan><tspan class="st3" v:langID="1049">б</tspan></text>		</g>
+		<g id="shape1331-76" v:mID="1331" v:groupContext="shape" v:layerMember="0" transform="translate(603.646,-194.985)">
+			<title>Контакт цепи.1331</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1332-78" v:mID="1332" v:groupContext="shape" transform="translate(582.467,-192.592)">
+			<title>Лист.1332</title>
+			<desc>J123 Л4(26)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.59464" cy="591.276" width="19.19" height="8"/>
+			<rect x="0" y="587.276" width="19.1893" height="8" class="st1"/>
+			<text x="8.74" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">123<v:newlineChar/></tspan><tspan x="3.97" dy="1.2em" class="st3" v:langID="1049">Л</tspan><tspan
+						class="st3" v:langID="1049">4</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">26</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1334-87" v:mID="1334" v:groupContext="shape" transform="translate(676.03,-190.457)">
+			<title>Лист.1334</title>
+			<desc>GY 0.5 132а</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">132</tspan><tspan class="st3" v:langID="1049">а</tspan></text>		</g>
+		<g id="group1336-92" transform="translate(1267.75,416.52) rotate(90)" v:mID="1336" v:groupContext="group">
+			<title>Лист.1336</title>
+			<g id="shape1337-93" v:mID="1337" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1338-97" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1338" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1339-98" v:mID="1339" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1339</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1340-100" v:mID="1340" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1340</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1341-103" notetype="main" noteid="7825" v:mID="1341" v:groupContext="shape" transform="translate(651.425,-170.677)">
+			<title>Лист.1341</title>
+			<desc>С184</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С1<tspan class="st6"
+						v:langID="1033">84</tspan></text>		</g>
+		<g id="group1342-107" transform="translate(1292.85,416.52) rotate(90)" v:mID="1342" v:groupContext="group">
+			<title>Лист.1342</title>
+			<g id="shape1343-108" v:mID="1343" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1344-112" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1344" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1345-113" v:mID="1345" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1345</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1346-115" v:mID="1346" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1346</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1347-118" v:mID="1347" v:groupContext="shape" transform="translate(702.091,-175.213) scale(-1,1)">
+			<title>Лист.1347</title>
+			<path d="M0 595.28 L25.09 595.28" class="st13"/>
+		</g>
+		<g id="shape1348-121" v:mID="1348" v:groupContext="shape" transform="translate(676.03,-178.047)">
+			<title>Лист.1348</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>2</text>		</g>
+		<g id="shape1350-124" v:mID="1350" v:groupContext="shape" v:layerMember="0" transform="translate(628.809,-216.692)">
+			<title>Контакт цепи.1350</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1351-126" v:mID="1351" v:groupContext="shape" transform="translate(607.999,-214.299)">
+			<title>Лист.1351</title>
+			<desc>J124 Л5(26)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.59464" cy="591.276" width="19.19" height="8"/>
+			<rect x="0" y="587.276" width="19.1893" height="8" class="st1"/>
+			<text x="8.74" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">124<v:newlineChar/></tspan><tspan x="3.97" dy="1.2em" class="st3" v:langID="1049">Л</tspan><tspan
+						class="st3" v:langID="1049">5</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">26</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1352-135" v:mID="1352" v:groupContext="shape" transform="translate(630.368,-218.252)">
+			<title>Лист.1352</title>
+			<path d="M0 595.28 L71.42 595.28" class="st10"/>
+		</g>
+		<g id="shape1353-138" v:mID="1353" v:groupContext="shape" transform="translate(701.542,-190.457)">
+			<title>Лист.1353</title>
+			<desc>BU 0.5 144а</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BU 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">144</tspan><tspan class="st3" v:langID="1049">а</tspan></text>		</g>
+		<g id="shape1354-143" v:mID="1354" v:groupContext="shape" transform="translate(701.955,-178.047)">
+			<title>Лист.1354</title>
+			<desc>1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>1</text>		</g>
+		<g id="shape1355-146" v:mID="1355" v:groupContext="shape" transform="translate(106.497,416.52) rotate(-90)">
+			<title>Лист.1355</title>
+			<path d="M0 595.28 L39.51 595.28" class="st10"/>
+		</g>
+		<g id="shape1356-149" v:mID="1356" v:groupContext="shape" v:layerMember="1" transform="translate(623.281,-216.692)">
+			<title>Динамическая соединительная линия</title>
+			<path d="M7.09 595.28 L7.09 654.6" class="st14"/>
+		</g>
+		<g id="shape1357-152" v:mID="1357" v:groupContext="shape" v:layerMember="1" transform="translate(606.765,-196.544)">
+			<title>Динамическая соединительная линия.1357</title>
+			<path d="M0 595.28 L21.24 595.28 A2.3622 2.3622 0 1 1 25.97 595.28 L69.91 595.28 L69.91 613.06" class="st14"/>
+		</g>
+		<g id="shape1368-155" v:mID="1368" v:groupContext="shape" transform="translate(670.361,-158.205)">
+			<title>Лист.1368</title>
+			<desc>Не используется</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="19.1339" cy="591.276" width="38.27" height="8"/>
+			<rect x="0" y="587.276" width="38.2677" height="8" class="st15"/>
+			<text x="1.47" y="592.78" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Не используется</text>		</g>
+		<g id="shape1401-158" v:mID="1401" v:groupContext="shape" transform="translate(181.874,-184.161)">
+			<title>Лист.1401</title>
+			<desc>BK 0.5 14</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.385" cy="591.276" width="20.77" height="8"/>
+			<rect x="0" y="587.276" width="20.77" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BK 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3">14</tspan></text>		</g>
+		<g id="shape1402-162" v:mID="1402" v:groupContext="shape" transform="translate(148.696,-184.161)">
+			<title>Лист.1402</title>
+			<desc>PK 0.5 26</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.11561" cy="591.276" width="18.24" height="8"/>
+			<rect x="0" y="587.276" width="18.2312" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>PK 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3">26</tspan></text>		</g>
+		<g id="shape1403-166" v:mID="1403" v:groupContext="shape" transform="translate(143.644,-160.299)">
+			<title>Лист.1403</title>
+			<path d="M0 595.28 L44.83 595.28 L44.83 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1404-168" v:mID="1404" v:groupContext="shape" v:layerMember="0" transform="translate(174.833,-157.211)">
+			<title>Контакт.1404</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Контакт. Для перемещения текста используйте маркер управления.)"/>
+			</v:userDefs>
+			<path d="M0 593.15 A2.12598 2.12598 0 0 1 4.25 593.15 A2.12598 2.12598 0 1 1 0 593.15 Z" class="st11"/>
+		</g>
+		<g id="shape1405-170" v:mID="1405" v:groupContext="shape" v:layerMember="0" transform="translate(144.547,-157.176)">
+			<title>Контакт.1405</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Контакт. Для перемещения текста используйте маркер управления.)"/>
+			</v:userDefs>
+			<path d="M0 593.15 A2.12598 2.12598 0 0 1 4.25 593.15 A2.12598 2.12598 0 1 1 0 593.15 Z" class="st11"/>
+		</g>
+		<g id="shape1406-172" v:mID="1406" v:groupContext="shape" transform="translate(136.841,-128.409)">
+			<title>Лист.1406</title>
+			<path d="M0 595.28 L55.88 595.28 L55.88 562.11 L0 562.11 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1407-174" v:mID="1407" v:groupContext="shape" transform="translate(136.775,-129.472)">
+			<title>Лист.1407</title>
+			<desc>M102 ABS</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="579.969" width="51.03" height="30.6142"/>
+			<rect x="0" y="564.661" width="51.0236" height="30.6142" class="st1"/>
+			<text x="19.4" y="578.47" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M102<v:newlineChar/><tspan
+						x="20.65" dy="1.2em" class="st6">ABS</tspan></text>		</g>
+		<g id="shape1408-178" v:mID="1408" v:groupContext="shape" transform="translate(146.696,-160.583)">
+			<title>Лист.1408</title>
+			<desc>26</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.67717" cy="591.276" width="9.36" height="8"/>
+			<rect x="0" y="587.276" width="9.35433" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>26</text>		</g>
+		<g id="shape1409-181" v:mID="1409" v:groupContext="shape" transform="translate(181.534,1034.62) rotate(180)">
+			<title>Лист.1409</title>
+			<path d="M0 595.28 L34.71 595.28" class="st10"/>
+		</g>
+		<g id="shape1410-184" v:mID="1410" v:groupContext="shape" transform="translate(158.951,-154.63)">
+			<title>Лист.1410</title>
+			<rect x="0" y="592.441" width="7.08661" height="2.83465" class="st11"/>
+		</g>
+		<g id="shape1411-186" v:mID="1411" v:groupContext="shape" transform="translate(776.809,433.812) rotate(90)">
+			<title>Лист.1411</title>
+			<path d="M0 595.28 L5.44 595.28" class="st10"/>
+		</g>
+		<g id="shape1412-189" v:mID="1412" v:groupContext="shape" transform="translate(418.677,-314.776)">
+			<title>Лист.1412</title>
+			<desc>GY 0.5 52к</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">к</tspan></text>		</g>
+		<g id="shape1413-194" v:mID="1413" v:groupContext="shape" transform="translate(488.126,-314.627)">
+			<title>Лист.1413</title>
+			<desc>GY 0.5 52м</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">м</tspan></text>		</g>
+		<g id="shape1417-199" v:mID="1417" v:groupContext="shape" transform="translate(527.844,-160.634)">
+			<title>Лист.1417</title>
+			<path d="M0 595.28 L38.83 595.28 L38.83 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1418-201" v:mID="1418" v:groupContext="shape" transform="translate(453.293,-160.634)">
+			<title>Лист.1418</title>
+			<path d="M0 595.28 L31.18 595.28 L31.18 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1419-203" v:mID="1419" v:groupContext="shape" transform="translate(381.379,-184.161)">
+			<title>Лист.1419</title>
+			<desc>GY 0.5 52</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan></text>		</g>
+		<g id="shape1420-207" v:mID="1420" v:groupContext="shape" transform="translate(406.286,-184.161)">
+			<title>Лист.1420</title>
+			<desc>BN/WH 0.5 51</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.8325" cy="591.276" width="27.67" height="8"/>
+			<rect x="0" y="587.276" width="27.665" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan></text>		</g>
+		<g id="shape1421-211" v:mID="1421" v:groupContext="shape" transform="translate(378.6,-160.634)">
+			<title>Лист.1421</title>
+			<path d="M0 595.28 L34.44 595.28 L34.44 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1422-213" v:mID="1422" v:groupContext="shape" transform="translate(225.954,-160.634)">
+			<title>Лист.1422</title>
+			<path d="M0 595.28 L36 595.28 L36 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1423-215" v:mID="1423" v:groupContext="shape" transform="translate(82.4553,-414.638)">
+			<title>Лист.1423</title>
+			<path d="M0 595.28 L10.77 595.28 L10.77 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1424-217" v:mID="1424" v:groupContext="shape" transform="translate(82.4553,-384.307)">
+			<title>Лист.1424</title>
+			<path d="M0 595.28 L106.02 595.28 L106.02 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1425-219" v:mID="1425" v:groupContext="shape" transform="translate(350.67,-364.787)">
+			<title>Лист.1425</title>
+			<desc>BN/WH 0.5 51з</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.5491" cy="591.276" width="27.1" height="8"/>
+			<rect x="0" y="587.276" width="27.0981" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">з</tspan></text>		</g>
+		<g id="shape1426-224" v:mID="1426" v:groupContext="shape" v:layerMember="0" transform="translate(255.947,-158.65)">
+			<title>Контакт.1426</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Контакт. Для перемещения текста используйте маркер управления.)"/>
+			</v:userDefs>
+			<path d="M0 593.43 A1.84252 1.84252 0 0 1 3.69 593.43 A1.84252 1.84252 0 1 1 0 593.43 Z" class="st11"/>
+		</g>
+		<g id="shape1427-226" v:mID="1427" v:groupContext="shape" v:layerMember="0" transform="translate(227.032,-158.65)">
+			<title>Контакт.1427</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Контакт. Для перемещения текста используйте маркер управления.)"/>
+			</v:userDefs>
+			<path d="M0 593.43 A1.84252 1.84252 0 0 1 3.69 593.43 A1.84252 1.84252 0 1 1 0 593.43 Z" class="st11"/>
+		</g>
+		<g id="shape1428-228" v:mID="1428" v:groupContext="shape" transform="translate(378.003,-313.126)">
+			<title>Лист.1428</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1429-230" v:mID="1429" v:groupContext="shape" transform="translate(299.559,-313.126)">
+			<title>Лист.1429</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1430-232" v:mID="1430" v:groupContext="shape" transform="translate(205.479,-314.776)">
+			<title>Лист.1430</title>
+			<desc>J213 Я40(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.85539" cy="591.276" width="19.72" height="8"/>
+			<rect x="0" y="587.276" width="19.7108" height="8" class="st1"/>
+			<text x="9.27" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">2</tspan>13<v:newlineChar/><tspan x="2.05" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">40</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1431-241" v:mID="1431" v:groupContext="shape" transform="translate(225.776,-313.126)">
+			<title>Лист.1431</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1432-243" v:mID="1432" v:groupContext="shape" v:layerMember="0" transform="translate(227.477,-314.685)">
+			<title>Контакт цепи.1432</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1433-245" v:mID="1433" v:groupContext="shape" transform="translate(143.606,-313.126)">
+			<title>Лист.1433</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1434-247" v:mID="1434" v:groupContext="shape" v:layerMember="0" transform="translate(145.307,-314.685)">
+			<title>Контакт цепи.1434</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1435-249" v:mID="1435" v:groupContext="shape" transform="translate(123.274,-312.276)">
+			<title>Лист.1435</title>
+			<desc>J208 Я38(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.2095" cy="591.276" width="20.42" height="8"/>
+			<rect x="0" y="587.276" width="20.4191" height="8" class="st1"/>
+			<text x="9.97" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">208<v:newlineChar/></tspan><tspan x="2.75" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">38</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1436-258" v:mID="1436" v:groupContext="shape" transform="translate(157.29,-314.776)">
+			<title>Лист.1436</title>
+			<desc>GY 0.5 52г</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">г</tspan></text>		</g>
+		<g id="shape1437-263" v:mID="1437" v:groupContext="shape" transform="translate(221.576,-130.003)">
+			<title>Лист.1437</title>
+			<path d="M0 595.28 L41.73 595.28 L41.73 562.96 L0 562.96 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1438-265" v:mID="1438" v:groupContext="shape" transform="translate(84.309,-457.351)">
+			<title>Лист.1438</title>
+			<desc>RD 0.5 18д</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.09821" cy="591.606" width="18.2" height="7.33858"/>
+			<rect x="0" y="587.937" width="18.1964" height="7.33858" class="st1"/>
+			<text x="1" y="593.44" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>RD <tspan class="st6" v:langID="1049">0</tspan>.<tspan
+						class="st6" v:langID="1049">5<v:newlineChar/><v:paragraph/></tspan><tspan x="1" dy="1.2em" class="st3"
+						v:langID="1049">18</tspan><tspan class="st3" v:langID="1049">д</tspan></text>		</g>
+		<g id="shape1439-272" v:mID="1439" v:groupContext="shape" transform="translate(84.309,-475.402)">
+			<title>Лист.1439</title>
+			<desc>RD 2.5 18</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.09821" cy="591.606" width="18.2" height="7.33858"/>
+			<rect x="0" y="587.937" width="18.1964" height="7.33858" class="st1"/>
+			<text x="1" y="593.44" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>RD <tspan class="st6" v:langID="1049">2</tspan>.<tspan
+						class="st6" v:langID="1049">5<v:newlineChar/></tspan><tspan x="1" dy="1.2em" class="st3" v:langID="1049">18</tspan></text>		</g>
+		<g id="shape1440-278" v:mID="1440" v:groupContext="shape" transform="translate(80.9926,-465.417)">
+			<title>Лист.1440</title>
+			<path d="M0 595.28 L15.25 595.28 L15.25 589.04 L0 589.04 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1441-280" v:mID="1441" v:groupContext="shape" transform="translate(92.7017,722.016) rotate(180)">
+			<title>Лист.1441</title>
+			<path d="M0 595.28 L7.95 595.28" class="st10"/>
+		</g>
+		<g id="shape1442-283" v:mID="1442" v:groupContext="shape" v:layerMember="0" transform="translate(82.6934,-466.96)">
+			<title>Контакт цепи.1442</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1443-285" v:mID="1443" v:groupContext="shape" transform="translate(63.5048,-464.567)">
+			<title>Лист.1443</title>
+			<desc>J105</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.7874" cy="591.276" width="17.58" height="8"/>
+			<rect x="0" y="587.276" width="17.5748" height="8" class="st1"/>
+			<text x="7.13" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">105</tspan></text>		</g>
+		<g id="shape1444-289" v:mID="1444" v:groupContext="shape" transform="translate(-482.524,273.36) rotate(-104.07)">
+			<title>Лист.1444</title>
+			<path d="M0 593.79 C0.41 593.95 0.38 593.62 0.41 593.37 C0.54 592.31 1.73 592.45 2.14 593.15 C2.41 593.61 2.35 594.31
+						 2.58 594.74 C3.07 595.69 4.93 595.4 4.82 593.79" class="st10"/>
+		</g>
+		<g id="shape1445-292" v:mID="1445" v:groupContext="shape" transform="translate(67.6347,-389.888)">
+			<title>Лист.1445</title>
+			<path d="M0 595.28 L127.86 595.28 L127.86 569.48 L0 569.48 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1446-294" notetype="main" noteid="7779,7779" v:mID="1446" v:groupContext="shape" transform="translate(56.4424,-383.008)">
+			<title>Лист.1446</title>
+			<desc>C216</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.0551" cy="591.276" width="24.12" height="8"/>
+			<rect x="0" y="587.276" width="24.1102" height="8" class="st1"/>
+			<text x="12.28" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>C216</text>		</g>
+		<g id="shape1447-297" v:mID="1447" v:groupContext="shape" transform="translate(67.6347,-390.171)">
+			<title>Лист.1447</title>
+			<desc>OBD II</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="51.9142" cy="582.52" width="103.83" height="25.5118"/>
+			<rect x="0" y="569.764" width="103.828" height="25.5118" class="st1"/>
+			<text x="42.33" y="584.32" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OBD II          </text>		</g>
+		<g id="shape1448-300" v:mID="1448" v:groupContext="shape" transform="translate(73.4503,-485.575)">
+			<title>Лист.1448</title>
+			<path d="M0 595.28 L35.43 595.28 L35.43 558.43 L0 558.43 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1449-302" v:mID="1449" v:groupContext="shape" transform="translate(742.035,280.531) rotate(90)">
+			<title>Лист.1449</title>
+			<path d="M0 595.28 L158.72 595.28" class="st10"/>
+		</g>
+		<g id="shape1450-305" notetype="main" noteid="7776,7776" v:mID="1450" v:groupContext="shape" transform="translate(59.2687,-436.782)">
+			<title>Лист.1450</title>
+			<desc>C203</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>C20<tspan class="st6"
+						v:langID="1049">3</tspan></text>		</g>
+		<g id="shape1451-309" notetype="main" noteid="7779,7779" v:mID="1451" v:groupContext="shape" transform="translate(69.4266,-414.266)">
+			<title>Лист.1451</title>
+			<desc>C216</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="6.68898" cy="591.276" width="13.38" height="8"/>
+			<rect x="0" y="587.276" width="13.378" height="8" class="st1"/>
+			<text x="1.27" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C216</text>		</g>
+		<g id="shape1452-312" v:mID="1452" v:groupContext="shape" transform="translate(84.7258,-446.986)">
+			<title>Лист.1452</title>
+			<desc>26</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="593.12" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>26</text>		</g>
+		<g id="group1453-315" transform="translate(-506.931,157.392) rotate(-90)" v:mID="1453" v:groupContext="group">
+			<title>Лист.1453</title>
+			<g id="shape1454-316" v:mID="1454" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1455-320" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1455" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1456-321" v:mID="1456" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1456</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1457-323" v:mID="1457" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1457</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1458-326" v:mID="1458" v:groupContext="shape" transform="translate(84.309,-427.807)">
+			<title>Лист.1458</title>
+			<desc>RD 1.0 18</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.09821" cy="591.606" width="18.2" height="7.33858"/>
+			<rect x="0" y="587.937" width="18.1964" height="7.33858" class="st1"/>
+			<text x="1" y="593.44" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>RD 1.0<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">18</tspan></text>		</g>
+		<g id="shape1459-330" v:mID="1459" v:groupContext="shape" transform="translate(81.574,-497.48)">
+			<title>Лист.1459</title>
+			<rect x="0" y="584.504" width="5.10236" height="10.7717" class="st11"/>
+		</g>
+		<g id="shape1460-332" v:mID="1460" v:groupContext="shape" transform="translate(82.7535,-488.409)">
+			<title>Лист.1460</title>
+			<desc>Fe6 20А</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="11.3386" cy="583.937" width="22.68" height="22.6772"/>
+			<rect x="0" y="572.598" width="22.6772" height="22.6772" class="st1"/>
+			<text x="7.59" y="578.1" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Fe<tspan class="st6"
+						v:langID="1049">6<v:newlineChar/></tspan><tspan x="7.03" dy="1.2em" class="st6" v:langID="1049">20</tspan><tspan
+						class="st6" v:langID="1049">А</tspan></text>		</g>
+		<g id="shape1461-338" v:mID="1461" v:groupContext="shape" v:layerMember="1" transform="translate(77.0581,-412.668)">
+			<title>Динамическая соединительная линия.1461</title>
+			<path d="M7.09 595.28 L7.09 472.86" class="st14"/>
+		</g>
+		<g id="shape1462-341" notetype="main" noteid="7774" v:mID="1462" v:groupContext="shape" transform="translate(42.2692,-485.575)">
+			<title>Лист.1462</title>
+			<desc>FU1 Блок предохра нителей в моторном отделении</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.4792" cy="576.85" width="30.96" height="36.8504"/>
+			<rect x="0" y="558.425" width="30.9583" height="36.8504" class="st1"/>
+			<text x="10.9" y="563.35" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>FU<tspan class="st6"
+						v:langID="1049">1<v:newlineChar/></tspan><tspan x="9.73" dy="1.2em" class="st6" v:langID="1049">Блок </tspan><tspan
+						x="5.13" dy="1.2em" class="st6" v:langID="1049">предохра </tspan><tspan x="4.33" dy="1.2em" class="st6"
+						v:langID="1049">нителей в </tspan><tspan x="4.26" dy="1.2em" class="st6" v:langID="1049">моторном </tspan><tspan
+						x="3.79" dy="1.2em" class="st6" v:langID="1049">отделении</tspan></text>		</g>
+		<g id="group1463-350" transform="translate(72.0329,-527.142)" v:mID="1463" v:groupContext="group">
+			<title>Лист.1463</title>
+			<g id="shape1464-351" v:mID="1464" v:groupContext="shape" v:layerMember="0" transform="translate(10.4882,-6.23622)">
+				<title>Контакт цепи.80</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+				</v:userDefs>
+				<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+			</g>
+			<g id="shape1465-353" v:mID="1465" v:groupContext="shape" v:layerMember="1" transform="translate(1.09912E-14,-14.1732)">
+				<title>Динамическая соединительная линия.204</title>
+				<path d="M2.27 598.68 L2.27 606.05 L11.91 606.05" class="st14"/>
+			</g>
+			<g id="shape1466-356" v:mID="1466" v:groupContext="shape" v:layerMember="1" transform="translate(24.2362,-14.1732)">
+				<title>Динамическая соединительная линия.362</title>
+				<path d="M-2.13 598.68 L-2.13 606.05 L-12.05 606.05" class="st14"/>
+			</g>
+		</g>
+		<g id="shape1467-359" v:mID="1467" v:groupContext="shape" transform="translate(75.6471,-537.102)">
+			<title>Лист.1467</title>
+			<desc>+30</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="7.87008" cy="591.276" width="15.75" height="8"/>
+			<rect x="0" y="587.276" width="15.7402" height="8" class="st1"/>
+			<text x="3.96" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>+30</text>		</g>
+		<g id="shape1468-362" v:mID="1468" v:groupContext="shape" transform="translate(88.0386,655.614) rotate(180)">
+			<title>Лист.1468</title>
+			<path d="M0 595.28 L8.42 595.28" class="st10"/>
+		</g>
+		<g id="shape1469-365" v:mID="1469" v:groupContext="shape" transform="translate(84.1668,-414.266)">
+			<title>Лист.1469</title>
+			<desc>16</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="4.98819" cy="591.276" width="9.98" height="8"/>
+			<rect x="0" y="587.276" width="9.97638" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>16</text>		</g>
+		<g id="shape1470-368" v:mID="1470" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-446.246,201.614) rotate(-90)">
+			<title>Адаптер.1470</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+			</v:userDefs>
+			<path d="M0 593.57 L0 592.44 L0 593.57 Z" class="st12"/>
+			<path d="M0 593.57 L0 592.44 L0 593.57" class="st10"/>
+			<path d="M1.98 590.74 A2.28796 2.28796 -180 0 0 1.98 595.28" class="st10"/>
+		</g>
+		<g id="shape1471-372" v:mID="1471" v:groupContext="shape" v:layerMember="0"
+				transform="translate(677.135,182.583) rotate(90)">
+			<title>Адаптер.1471</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+			</v:userDefs>
+			<path d="M0 593.57 L0 592.44 L0 593.57 Z" class="st12"/>
+			<path d="M0 593.57 L0 592.44 L0 593.57" class="st10"/>
+			<path d="M1.98 590.74 A2.28796 2.28796 -180 0 0 1.98 595.28" class="st10"/>
+		</g>
+		<g id="shape1472-376" v:mID="1472" v:groupContext="shape" transform="translate(147.141,-383.549)">
+			<title>Лист.1472</title>
+			<desc>6</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="6.66142" cy="591.276" width="13.33" height="8"/>
+			<rect x="0" y="587.276" width="13.3228" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>6</text>		</g>
+		<g id="shape1473-379" v:mID="1473" v:groupContext="shape" transform="translate(147.019,-376.15)">
+			<title>Лист.1473</title>
+			<desc>GY 0.5 52в</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3">52</tspan><tspan class="st3" v:langID="1049">в</tspan></text>		</g>
+		<g id="shape1474-384" notetype="main" noteid="7796" v:mID="1474" v:groupContext="shape" transform="translate(205.883,-160.35)">
+			<title>Лист.1474</title>
+			<desc>С226</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С226</text>		</g>
+		<g id="shape1475-387" v:mID="1475" v:groupContext="shape" transform="translate(221.576,-129.72)">
+			<title>Лист.1475</title>
+			<desc>М203 Комбинация приборов</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.8651" cy="579.118" width="41.74" height="32.315"/>
+			<rect x="0" y="562.961" width="41.7301" height="32.315" class="st1"/>
+			<text x="14.76" y="574.62" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>М203<v:newlineChar/><tspan
+						x="6.49" dy="1.2em" class="st6">Комбинация </tspan><tspan x="10.1" dy="1.2em" class="st6">приборов</tspan></text>		</g>
+		<g id="shape1476-392" notetype="main" noteid="7802" v:mID="1476" v:groupContext="shape" transform="translate(356.053,-212.294)">
+			<title>Лист.1476</title>
+			<desc>С302</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С302</text>		</g>
+		<g id="shape1477-395" notetype="main" noteid="7806" v:mID="1477" v:groupContext="shape" transform="translate(357.992,-160.35)">
+			<title>Лист.1477</title>
+			<desc>С322</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С322</text>		</g>
+		<g id="shape1478-398" v:mID="1478" v:groupContext="shape" transform="translate(449.632,-129.72)">
+			<title>Лист.1478</title>
+			<path d="M0 595.28 L38.24 595.28 L38.24 562.96 L0 562.96 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1479-400" notetype="main" noteid="7810" v:mID="1479" v:groupContext="shape" transform="translate(432.655,-160.35)">
+			<title>Лист.1479</title>
+			<desc>С212</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С212</text>		</g>
+		<g id="shape1480-403" v:mID="1480" v:groupContext="shape" transform="translate(449.117,-147.578)">
+			<title>Лист.1480</title>
+			<desc>M201 Пульт управления климатической установкой</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="18.7795" cy="588.189" width="37.56" height="14.1732"/>
+			<rect x="0" y="581.102" width="37.5591" height="14.1732" class="st1"/>
+			<text x="12.67" y="586.6" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M201<v:newlineChar/><tspan
+						x="11.63" dy="1.2em" class="st6" v:langID="1049">Пульт </tspan><tspan x="5.35" dy="1.2em" class="st6"
+						v:langID="1049">управления </tspan><tspan x="1.11" dy="1.2em" class="st6" v:langID="1049">климатической </tspan><tspan
+						x="5.77" dy="1.2em" class="st6" v:langID="1049">установкой</tspan></text>		</g>
+		<g id="shape1481-410" v:mID="1481" v:groupContext="shape" transform="translate(526.001,-129.72)">
+			<title>Лист.1481</title>
+			<path d="M0 595.28 L42.52 595.28 L42.52 562.96 L0 562.96 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1482-412" notetype="main" noteid="7813" v:mID="1482" v:groupContext="shape" transform="translate(507.151,-160.35)">
+			<title>Лист.1482</title>
+			<desc>С233-С</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="3.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С233-С</text>		</g>
+		<g id="shape1483-415" v:mID="1483" v:groupContext="shape" transform="translate(527.356,-129.72)">
+			<title>Лист.1483</title>
+			<desc>M206 Аудио система</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.5826" cy="578.976" width="41.17" height="32.5984"/>
+			<rect x="0" y="562.677" width="41.1651" height="32.5984" class="st1"/>
+			<text x="14.47" y="577.48" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M20<tspan class="st6"
+						v:langID="1049">6<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st6" v:langID="1049">Аудио система</tspan></text>		</g>
+		<g id="shape1488-420" v:mID="1488" v:groupContext="shape" transform="translate(375.274,-129.948)">
+			<title>Лист.1488</title>
+			<path d="M0 595.28 L40.6 595.28 L40.6 562.96 L0 562.96 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1489-422" v:mID="1489" v:groupContext="shape" transform="translate(375.274,-129.665)">
+			<title>Лист.1489</title>
+			<desc>M305 Блок управления подушками безопасности</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.3007" cy="578.976" width="40.61" height="32.5984"/>
+			<rect x="0" y="562.677" width="40.6013" height="32.5984" class="st1"/>
+			<text x="14.19" y="568.48" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M305<v:newlineChar/><tspan
+						x="14.55" dy="1.2em" class="st6" v:langID="1049">Блок </tspan><tspan x="6.87" dy="1.2em" class="st6"
+						v:langID="1049">управления </tspan><tspan x="7.15" dy="1.2em" class="st6" v:langID="1049">подушками </tspan><tspan
+						x="5.42" dy="1.2em" class="st6" v:langID="1049">безопасности</tspan></text>		</g>
+		<g id="shape1490-429" v:mID="1490" v:groupContext="shape" v:layerMember="1" transform="translate(148.425,-323.331)">
+			<title>Динамическая соединительная линия.1490</title>
+			<path d="M0 602.36 L30.81 602.36 A2.3622 2.3622 0 0 1 35.54 602.36 L79.05 602.36" class="st14"/>
+		</g>
+		<g id="shape1491-432" v:mID="1491" v:groupContext="shape" transform="translate(146.996,-289.679)">
+			<title>Лист.1491</title>
+			<desc>GY 0.5 52</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.74409" cy="591.276" width="19.49" height="8"/>
+			<rect x="0" y="587.276" width="19.4882" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">5</tspan><tspan class="st3">2</tspan></text>		</g>
+		<g id="shape1492-437" v:mID="1492" v:groupContext="shape" transform="translate(228.875,-253.831)">
+			<title>Лист.1492</title>
+			<desc>GY 0.5 52д</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">д</tspan></text>		</g>
+		<g id="shape1493-442" v:mID="1493" v:groupContext="shape" transform="translate(236.66,-314.776)">
+			<title>Лист.1493</title>
+			<desc>GY 0.5 52е</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">е</tspan></text>		</g>
+		<g id="shape1494-447" v:mID="1494" v:groupContext="shape" v:layerMember="1" transform="translate(221.788,-315.28)">
+			<title>Динамическая соединительная линия.1494</title>
+			<path d="M7.09 595.28 L7.09 748.22" class="st14"/>
+		</g>
+		<g id="shape1495-450" v:mID="1495" v:groupContext="shape" transform="translate(229.496,-160.35)">
+			<title>Лист.1495</title>
+			<desc>6</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>6</text>		</g>
+		<g id="shape1496-453" v:mID="1496" v:groupContext="shape" v:layerMember="0" transform="translate(301.26,-314.685)">
+			<title>Контакт цепи.1496</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1497-455" v:mID="1497" v:groupContext="shape" transform="translate(278.329,-314.163)">
+			<title>Лист.1497</title>
+			<desc>J222 Я42(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.6585" cy="591.276" width="21.32" height="8"/>
+			<rect x="0" y="587.276" width="21.3171" height="8" class="st1"/>
+			<text x="10.87" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">222<v:newlineChar/></tspan><tspan x="3.65" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">42</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1498-464" v:mID="1498" v:groupContext="shape" transform="translate(302.707,-253.831)">
+			<title>Лист.1498</title>
+			<desc>GY 0.5 52ж</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">ж</tspan></text>		</g>
+		<g id="shape1499-469" v:mID="1499" v:groupContext="shape" transform="translate(342.142,-313.673)">
+			<title>Лист.1499</title>
+			<desc>GY 0.5 52з</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">з</tspan></text>		</g>
+		<g id="shape1500-474" v:mID="1500" v:groupContext="shape" v:layerMember="1" transform="translate(295.733,-314.685)">
+			<title>Динамическая соединительная линия.1500</title>
+			<path d="M7.09 595.28 L7.09 681.93" class="st14"/>
+		</g>
+		<g id="shape1501-477" v:mID="1501" v:groupContext="shape" v:layerMember="1" transform="translate(230.595,-309.157)">
+			<title>Динамическая соединительная линия.1501</title>
+			<path d="M0 588.19 L24.84 588.19 A2.3622 2.3622 0 1 1 29.57 588.19 L70.67 588.19" class="st14"/>
+		</g>
+		<g id="shape1502-480" v:mID="1502" v:groupContext="shape" v:layerMember="1" transform="translate(153.901,-317.803)">
+			<title>Динамическая соединительная линия.1502</title>
+			<path d="M-7.03 595.28 L-7.03 519.42 L-7.14 519.42" class="st14"/>
+		</g>
+		<g id="shape1503-483" v:mID="1503" v:groupContext="shape" v:layerMember="0" transform="translate(379.704,-314.685)">
+			<title>Контакт цепи.1503</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1504-485" v:mID="1504" v:groupContext="shape" transform="translate(358.55,-314.43)">
+			<title>Лист.1504</title>
+			<desc>J258 я44(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.77035" cy="591.276" width="19.55" height="8"/>
+			<rect x="0" y="587.276" width="19.5407" height="8" class="st1"/>
+			<text x="9.1" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">2</tspan>58<v:newlineChar/><tspan x="2.91" dy="1.2em" class="st3" v:langID="1049">я</tspan><tspan
+						class="st3" v:langID="1049">4</tspan><tspan class="st3">4</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan
+						class="st3" v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1505-495" v:mID="1505" v:groupContext="shape" v:layerMember="1" transform="translate(304.378,-309.157)">
+			<title>Динамическая соединительная линия.1505</title>
+			<path d="M0 588.19 L25.25 588.19 A2.3622 2.3622 0 1 1 29.98 588.19 L75.33 588.19" class="st14"/>
+		</g>
+		<g id="shape1506-498" v:mID="1506" v:groupContext="shape" transform="translate(381.379,-253.831)">
+			<title>Лист.1506</title>
+			<desc>GY 0.5 52и</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">и</tspan></text>		</g>
+		<g id="shape1507-503" v:mID="1507" v:groupContext="shape" transform="translate(381.095,-221.365)">
+			<title>Лист.1507</title>
+			<desc>25</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>25</text>		</g>
+		<g id="group1508-506" transform="translate(972.174,382.486) rotate(90) scale(-1,1)" v:mID="1508" v:groupContext="group">
+			<title>Лист.1508</title>
+			<g id="shape1509-507" v:mID="1509" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1510-511" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1510" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1511-512" v:mID="1511" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1511</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1512-514" v:mID="1512" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1512</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1513-517" v:mID="1513" v:groupContext="shape" transform="translate(976.373,280.185) rotate(90)">
+			<title>Лист.1513</title>
+			<path d="M0 595.28 L152.78 595.28" class="st10"/>
+		</g>
+		<g id="shape1514-520" v:mID="1514" v:groupContext="shape" transform="translate(406.739,974.673) rotate(180)">
+			<title>Лист.1514</title>
+			<path d="M0 595.28 L25.8 595.28" class="st13"/>
+		</g>
+		<g id="shape1515-523" v:mID="1515" v:groupContext="shape" transform="translate(380.981,-160.35)">
+			<title>Лист.1515</title>
+			<desc>1</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>1</text>		</g>
+		<g id="shape1516-526" v:mID="1516" v:groupContext="shape" transform="translate(453.197,-313.126)">
+			<title>Лист.1516</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1517-528" v:mID="1517" v:groupContext="shape" v:layerMember="0" transform="translate(454.898,-314.685)">
+			<title>Контакт цепи.1517</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1518-530" v:mID="1518" v:groupContext="shape" transform="translate(433.668,-314.229)">
+			<title>Лист.1518</title>
+			<desc>J228 Я46(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.80815" cy="591.276" width="19.62" height="8"/>
+			<rect x="0" y="587.276" width="19.6163" height="8" class="st1"/>
+			<text x="9.17" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">228<v:newlineChar/></tspan><tspan x="1.95" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">46</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1519-539" v:mID="1519" v:groupContext="shape" v:layerMember="1" transform="translate(382.822,-323.331)">
+			<title>Динамическая соединительная линия.1519</title>
+			<path d="M0 602.36 L21.27 602.36 A2.3622 2.3622 0 0 1 26 602.36 L72.08 602.36" class="st14"/>
+		</g>
+		<g id="shape1520-542" v:mID="1520" v:groupContext="shape" transform="translate(-138.819,433.085) rotate(-90)">
+			<title>Лист.1520</title>
+			<path d="M0 595.28 L152.49 595.28" class="st10"/>
+		</g>
+		<g id="shape1521-545" v:mID="1521" v:groupContext="shape" transform="translate(456.497,-253.831)">
+			<title>Лист.1521</title>
+			<desc>GY 0.5 52л</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">л</tspan></text>		</g>
+		<g id="shape1522-550" v:mID="1522" v:groupContext="shape" transform="translate(526.822,-313.126)">
+			<title>Лист.1522</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1523-552" v:mID="1523" v:groupContext="shape" v:layerMember="0" transform="translate(528.523,-314.685)">
+			<title>Контакт цепи.1523</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1524-554" v:mID="1524" v:groupContext="shape" transform="translate(505.951,-314.116)">
+			<title>Лист.1524</title>
+			<desc>J230 Я48(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.479" cy="591.276" width="20.96" height="8"/>
+			<rect x="0" y="587.276" width="20.958" height="8" class="st1"/>
+			<text x="10.51" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J<tspan class="st6"
+						v:langID="1049">230<v:newlineChar/></tspan><tspan x="3.29" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">48</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1525-563" v:mID="1525" v:groupContext="shape" v:layerMember="1" transform="translate(458.016,-309.157)">
+			<title>Динамическая соединительная линия.1525</title>
+			<path d="M0 588.19 L17.69 588.19 A2.3622 2.3622 0 0 1 22.42 588.19 L70.51 588.19" class="st14"/>
+		</g>
+		<g id="shape1526-566" v:mID="1526" v:groupContext="shape" v:layerMember="1" transform="translate(522.996,-314.685)">
+			<title>Динамическая соединительная линия.1526</title>
+			<path d="M7.09 595.28 L7.09 747.83" class="st14"/>
+		</g>
+		<g id="shape1527-569" v:mID="1527" v:groupContext="shape" transform="translate(530.198,-253.831)">
+			<title>Лист.1527</title>
+			<desc>GY 0.5 52н</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">н</tspan></text>		</g>
+		<g id="shape1528-574" v:mID="1528" v:groupContext="shape" v:layerMember="1" transform="translate(531.641,-316.244)">
+			<title>Динамическая соединительная линия.1528</title>
+			<path d="M0 595.28 L24.85 595.28 A2.3622 2.3622 0 1 1 29.58 595.28 L73.62 595.28 L73.62 636.57" class="st14"/>
+		</g>
+		<g id="group1529-577" transform="translate(1196.34,320.327) rotate(90)" v:mID="1529" v:groupContext="group">
+			<title>Лист.1529</title>
+			<g id="shape1530-578" v:mID="1530" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1531-582" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1531" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1532-583" v:mID="1532" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1532</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1533-585" v:mID="1533" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1533</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1534-588" transform="translate(1196.34,351.618) rotate(90)" v:mID="1534" v:groupContext="group">
+			<title>Лист.1534</title>
+			<g id="shape1535-589" v:mID="1535" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1536-593" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1536" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1537-594" v:mID="1537" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1537</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1538-596" v:mID="1538" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1538</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1539-599" v:mID="1539" v:groupContext="shape" transform="translate(1200.54,363.665) rotate(90)">
+			<title>Лист.1539</title>
+			<path d="M0 595.28 L74.24 595.28" class="st10"/>
+		</g>
+		<g id="shape1540-602" v:mID="1540" v:groupContext="shape" transform="translate(9.99806,351.817) rotate(-90)">
+			<title>Лист.1540</title>
+			<path d="M0 595.28 L22.5 595.28" class="st10"/>
+		</g>
+		<g id="shape1541-605" v:mID="1541" v:groupContext="shape" transform="translate(456.497,-160.35)">
+			<title>Лист.1541</title>
+			<desc>5</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.84624" cy="590.74" width="9.7" height="9.07087"/>
+			<rect x="0" y="586.205" width="9.69248" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>5</text>		</g>
+		<g id="shape1542-608" v:mID="1542" v:groupContext="shape" transform="translate(605.174,-274.98)">
+			<title>Лист.1542</title>
+			<desc>25</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>25</text>		</g>
+		<g id="shape1544-611" v:mID="1544" v:groupContext="shape" transform="translate(630.358,918.406) rotate(180)">
+			<title>Лист.1544</title>
+			<path d="M0 595.28 L25.09 595.28" class="st13"/>
+		</g>
+		<g id="shape1545-614" v:mID="1545" v:groupContext="shape" transform="translate(630.356,-243.689)">
+			<title>Лист.1545</title>
+			<desc>15</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>15</text>		</g>
+		<g id="shape1546-617" v:mID="1546" v:groupContext="shape" transform="translate(555.597,-363.633)">
+			<title>Лист.1546</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1547-619" v:mID="1547" v:groupContext="shape" v:layerMember="0" transform="translate(557.298,-365.176)">
+			<title>Контакт цепи.1547</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1548-621" v:mID="1548" v:groupContext="shape" transform="translate(536.565,-364.787)">
+			<title>Лист.1548</title>
+			<desc>J229 Я47(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.59464" cy="591.276" width="19.19" height="8"/>
+			<rect x="0" y="587.276" width="19.1893" height="8" class="st1"/>
+			<text x="8.74" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J2<tspan class="st6"
+						v:langID="1049">29<v:newlineChar/></tspan><tspan x="1.52" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">47</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1549-630" v:mID="1549" v:groupContext="shape" transform="translate(474.809,-363.44)">
+			<title>Лист.1549</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1550-632" v:mID="1550" v:groupContext="shape" transform="translate(403.199,-363.287)">
+			<title>Лист.1550</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1551-634" v:mID="1551" v:groupContext="shape" v:layerMember="0" transform="translate(404.9,-364.83)">
+			<title>Контакт цепи.1551</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1552-636" v:mID="1552" v:groupContext="shape" transform="translate(384.062,-364.787)">
+			<title>Лист.1552</title>
+			<desc>J257 Я43(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.64779" cy="591.276" width="19.3" height="8"/>
+			<rect x="0" y="587.276" width="19.2956" height="8" class="st1"/>
+			<text x="8.85" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J2<tspan class="st6"
+						v:langID="1049">57<v:newlineChar/></tspan><tspan x="1.63" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">43</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1553-645" v:mID="1553" v:groupContext="shape" transform="translate(1001.75,382.486) rotate(90)">
+			<title>Лист.1553</title>
+			<path d="M0 595.28 L50.48 595.28" class="st10"/>
+		</g>
+		<g id="shape1554-648" v:mID="1554" v:groupContext="shape" transform="translate(328.734,-363.169)">
+			<title>Лист.1554</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1555-650" v:mID="1555" v:groupContext="shape" transform="translate(254.546,-362.99)">
+			<title>Лист.1555</title>
+			<rect x="0" y="589.039" width="6.50043" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1556-652" v:mID="1556" v:groupContext="shape" transform="translate(178.523,-362.984)">
+			<title>Лист.1556</title>
+			<rect x="0" y="589.039" width="7.35083" height="6.23622" class="st4"/>
+		</g>
+		<g id="shape1557-654" v:mID="1557" v:groupContext="shape" v:layerMember="0" transform="translate(180.224,-364.527)">
+			<title>Контакт цепи.1557</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1558-656" v:mID="1558" v:groupContext="shape" transform="translate(158.991,-362.134)">
+			<title>Лист.1558</title>
+			<desc>J207 Я37(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.80974" cy="591.276" width="19.62" height="8"/>
+			<rect x="0" y="587.276" width="19.6195" height="8" class="st1"/>
+			<text x="9.17" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J2<tspan class="st6"
+						v:langID="1049">07<v:newlineChar/></tspan><tspan x="1.96" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">37</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1559-665" v:mID="1559" v:groupContext="shape" transform="translate(181.622,-383.589)">
+			<title>Лист.1559</title>
+			<desc>14</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="6.66142" cy="591.276" width="13.33" height="8"/>
+			<rect x="0" y="587.276" width="13.3228" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>14</text>		</g>
+		<g id="shape1560-668" v:mID="1560" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-411.386,201.575) rotate(-90)">
+			<title>Адаптер.1560</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+			</v:userDefs>
+			<path d="M0 593.57 L0 592.44 L0 593.57 Z" class="st12"/>
+			<path d="M0 593.57 L0 592.44 L0 593.57" class="st10"/>
+			<path d="M1.98 590.74 A2.28796 2.28796 -180 0 0 1.98 595.28" class="st10"/>
+		</g>
+		<g id="shape1561-672" v:mID="1561" v:groupContext="shape" transform="translate(776.898,201.575) rotate(90)">
+			<title>Лист.1561</title>
+			<path d="M0 595.28 L27.25 595.28" class="st10"/>
+		</g>
+		<g id="shape1562-675" v:mID="1562" v:groupContext="shape" transform="translate(181.622,-376.15)">
+			<title>Лист.1562</title>
+			<desc>BN/WH 0.5 51в</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.2418" cy="591.276" width="28.49" height="8"/>
+			<rect x="0" y="587.276" width="28.4836" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">в</tspan></text>		</g>
+		<g id="shape1563-680" v:mID="1563" v:groupContext="shape" transform="translate(181.602,-289.679)">
+			<title>Лист.1563</title>
+			<desc>BN/WH 0.5 51</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.0315" cy="591.276" width="28.07" height="8"/>
+			<rect x="0" y="587.276" width="28.063" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan></text>		</g>
+		<g id="shape1564-684" v:mID="1564" v:groupContext="shape" transform="translate(199.81,-364.787)">
+			<title>Лист.1564</title>
+			<desc>BN/WH 0.5 51г</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.6829" cy="591.276" width="29.37" height="8"/>
+			<rect x="0" y="587.276" width="29.3658" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">г</tspan></text>		</g>
+		<g id="shape1565-689" v:mID="1565" v:groupContext="shape" v:layerMember="0" transform="translate(256.246,-364.532)">
+			<title>Контакт цепи.1565</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1566-691" v:mID="1566" v:groupContext="shape" transform="translate(233.825,-364.5)">
+			<title>Лист.1566</title>
+			<desc>J212 Я39(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.4037" cy="591.276" width="20.81" height="8"/>
+			<rect x="0" y="587.276" width="20.8074" height="8" class="st1"/>
+			<text x="10.36" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J2<tspan class="st6"
+						v:langID="1049">12<v:newlineChar/></tspan><tspan x="3.14" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">39</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1567-700" v:mID="1567" v:groupContext="shape" transform="translate(257.751,-253.831)">
+			<title>Лист.1567</title>
+			<desc>BN/WH 0.5 51д</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.116" cy="591.276" width="28.24" height="8"/>
+			<rect x="0" y="587.276" width="28.232" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">д</tspan></text>		</g>
+		<g id="shape1568-705" v:mID="1568" v:groupContext="shape" transform="translate(279.18,-364.787)">
+			<title>Лист.1568</title>
+			<desc>BN/WH 0.5 51е</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.5093" cy="591.276" width="27.02" height="8"/>
+			<rect x="0" y="587.276" width="27.0185" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">е</tspan></text>		</g>
+		<g id="shape1569-710" v:mID="1569" v:groupContext="shape" v:layerMember="0" transform="translate(330.434,-364.712)">
+			<title>Контакт цепи.1569</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1570-712" v:mID="1570" v:groupContext="shape" transform="translate(307.156,-364.787)">
+			<title>Лист.1570</title>
+			<desc>J221 Я41(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.7817" cy="591.276" width="21.57" height="8"/>
+			<rect x="0" y="587.276" width="21.5633" height="8" class="st1"/>
+			<text x="11.12" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J2<tspan class="st6"
+						v:langID="1049">21<v:newlineChar/></tspan><tspan x="3.9" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">41</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1571-721" v:mID="1571" v:groupContext="shape" transform="translate(332.665,-253.831)">
+			<title>Лист.1571</title>
+			<desc>BN/WH 0.5 51ж</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.5093" cy="591.276" width="27.02" height="8"/>
+			<rect x="0" y="587.276" width="27.0185" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">ж</tspan></text>		</g>
+		<g id="shape1572-726" v:mID="1572" v:groupContext="shape" transform="translate(406.286,-253.831)">
+			<title>Лист.1572</title>
+			<desc>BN/WH 0.5 51и</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.2577" cy="591.276" width="28.52" height="8"/>
+			<rect x="0" y="587.276" width="28.5154" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">и</tspan></text>		</g>
+		<g id="shape1573-731" v:mID="1573" v:groupContext="shape" transform="translate(420.912,-364.787)">
+			<title>Лист.1573</title>
+			<desc>BN/WH 0.5 51к</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.5884" cy="591.276" width="29.18" height="8"/>
+			<rect x="0" y="587.276" width="29.1769" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">к</tspan></text>		</g>
+		<g id="shape1574-736" v:mID="1574" v:groupContext="shape" v:layerMember="0" transform="translate(476.51,-364.982)">
+			<title>Контакт цепи.1574</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1575-738" v:mID="1575" v:groupContext="shape" transform="translate(454.928,-364.787)">
+			<title>Лист.1575</title>
+			<desc>J227 Я45(10)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="10.0198" cy="591.276" width="20.04" height="8"/>
+			<rect x="0" y="587.276" width="20.0397" height="8" class="st1"/>
+			<text x="9.59" y="592.78" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>J2<tspan class="st6"
+						v:langID="1049">27<v:newlineChar/></tspan><tspan x="2.37" dy="1.2em" class="st3" v:langID="1049">Я</tspan><tspan
+						class="st3" v:langID="1049">45</tspan><tspan class="st3" v:langID="1049">(</tspan><tspan class="st3"
+						v:langID="1049">10</tspan><tspan class="st3" v:langID="1049">)</tspan></text>		</g>
+		<g id="shape1576-747" v:mID="1576" v:groupContext="shape" transform="translate(477.908,-253.831)">
+			<title>Лист.1576</title>
+			<desc>BN/WH 0.5 51л</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.738" cy="591.276" width="27.48" height="8"/>
+			<rect x="0" y="587.276" width="27.4761" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">л</tspan></text>		</g>
+		<g id="shape1577-752" v:mID="1577" v:groupContext="shape" transform="translate(505.994,-364.787)">
+			<title>Лист.1577</title>
+			<desc>BN/WH 0.5 51м</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.7302" cy="591.276" width="29.47" height="8"/>
+			<rect x="0" y="587.276" width="29.4603" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">м</tspan></text>		</g>
+		<g id="shape1578-757" v:mID="1578" v:groupContext="shape" transform="translate(558.696,-253.831)">
+			<title>Лист.1578</title>
+			<desc>BN/WH 0.5 51н</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.8798" cy="591.276" width="27.76" height="8"/>
+			<rect x="0" y="587.276" width="27.7595" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">н</tspan></text>		</g>
+		<g id="shape1579-762" v:mID="1579" v:groupContext="shape" transform="translate(577.239,-365.323)">
+			<title>Лист.1579</title>
+			<desc>BN/WH 0.5 51п</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.2624" cy="591.276" width="28.53" height="8"/>
+			<rect x="0" y="587.276" width="28.5249" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">п</tspan></text>		</g>
+		<g id="shape1580-767" v:mID="1580" v:groupContext="shape" transform="translate(257.995,-160.35)">
+			<title>Лист.1580</title>
+			<desc>5</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>5</text>		</g>
+		<g id="shape1581-770" v:mID="1581" v:groupContext="shape" transform="translate(406.475,-221.365)">
+			<title>Лист.1581</title>
+			<desc>24</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>24</text>		</g>
+		<g id="group1582-773" transform="translate(997.554,382.486) rotate(90) scale(-1,1)" v:mID="1582" v:groupContext="group">
+			<title>Лист.1582</title>
+			<g id="shape1583-774" v:mID="1583" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1584-778" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1584" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1585-779" v:mID="1585" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1585</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1586-781" v:mID="1586" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1586</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1587-784" v:mID="1587" v:groupContext="shape" transform="translate(406.515,-160.35)">
+			<title>Лист.1587</title>
+			<desc>11</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>11</text>		</g>
+		<g id="shape1588-787" v:mID="1588" v:groupContext="shape" transform="translate(478.137,-160.35)">
+			<title>Лист.1588</title>
+			<desc>6</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.84624" cy="590.74" width="9.7" height="9.07087"/>
+			<rect x="0" y="586.205" width="9.69248" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>6</text>		</g>
+		<g id="shape1589-790" v:mID="1589" v:groupContext="shape" transform="translate(558.905,-160.35)">
+			<title>Лист.1589</title>
+			<desc>11</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.84624" cy="590.74" width="9.7" height="9.07087"/>
+			<rect x="0" y="586.205" width="9.69248" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>11</text>		</g>
+		<g id="shape1590-793" notetype="main" noteid="7782,7782" v:mID="1590" v:groupContext="shape" transform="translate(579.99,-265.909)">
+			<title>Лист.1590</title>
+			<desc>С205</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С205</text>		</g>
+		<g id="shape1591-796" v:mID="1591" v:groupContext="shape" transform="translate(630.356,-274.98)">
+			<title>Лист.1591</title>
+			<desc>24</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>24</text>		</g>
+		<g id="group1592-799" transform="translate(1221.43,320.327) rotate(90)" v:mID="1592" v:groupContext="group">
+			<title>Лист.1592</title>
+			<g id="shape1593-800" v:mID="1593" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1594-804" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1594" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1595-805" v:mID="1595" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1595</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1596-807" v:mID="1596" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1596</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1597-810" v:mID="1597" v:groupContext="shape" transform="translate(630.497,-253.831)">
+			<title>Лист.1597</title>
+			<desc>BN/WH 0.5 51</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="13.4121" cy="591.276" width="26.83" height="8"/>
+			<rect x="0" y="587.276" width="26.8241" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan></text>		</g>
+		<g id="shape1598-814" notetype="main" noteid="7785,7785" v:mID="1598" v:groupContext="shape" transform="translate(580.388,-234.618)">
+			<title>Лист.1598</title>
+			<desc>С126</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С126</text>		</g>
+		<g id="group1599-817" transform="translate(1221.43,351.618) rotate(90)" v:mID="1599" v:groupContext="group">
+			<title>Лист.1599</title>
+			<g id="shape1600-818" v:mID="1600" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1601-822" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1601" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1602-823" v:mID="1602" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1602</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1603-825" v:mID="1603" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1603</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1604-828" v:mID="1604" v:groupContext="shape" transform="translate(479.538,-366.398)">
+			<title>Лист.1604</title>
+			<path d="M0 595.28 L79.06 595.28" class="st10"/>
+		</g>
+		<g id="shape1605-831" v:mID="1605" v:groupContext="shape" transform="translate(407.326,-366.398)">
+			<title>Лист.1605</title>
+			<path d="M0 595.28 L70.65 595.28" class="st10"/>
+		</g>
+		<g id="shape1606-834" v:mID="1606" v:groupContext="shape" transform="translate(333.552,-366.271)">
+			<title>Лист.1606</title>
+			<path d="M0 595.28 L72.82 595.28" class="st10"/>
+		</g>
+		<g id="shape1607-837" v:mID="1607" v:groupContext="shape" v:layerMember="1" transform="translate(264.884,-364.532)">
+			<title>Динамическая соединительная линия.1607</title>
+			<path d="M-7.08 595.28 L-7.09 797.47" class="st14"/>
+		</g>
+		<g id="shape1608-840" v:mID="1608" v:groupContext="shape" v:layerMember="1" transform="translate(183.342,-359.002)">
+			<title>Динамическая соединительная линия.1608</title>
+			<path d="M0 588.19 L74.46 588.19" class="st14"/>
+		</g>
+		<g id="shape1609-843" v:mID="1609" v:groupContext="shape" v:layerMember="1" transform="translate(174.515,-161.276)">
+			<title>Динамическая соединительная линия.1609</title>
+			<path d="M7.09 595.28 L7.09 391.46" class="st14"/>
+		</g>
+		<g id="shape1610-846" v:mID="1610" v:groupContext="shape" v:layerMember="1" transform="translate(259.365,-359.094)">
+			<title>Динамическая соединительная линия.1610</title>
+			<path d="M0 588.28 L71.07 588.1" class="st14"/>
+		</g>
+		<g id="shape1611-849" v:mID="1611" v:groupContext="shape" v:layerMember="1" transform="translate(413.555,-212.789)">
+			<title>Динамическая соединительная линия.1611</title>
+			<path d="M-7.08 595.28 L-7.1 595.28 L-7.1 443.23" class="st14"/>
+		</g>
+		<g id="shape1612-852" v:mID="1612" v:groupContext="shape" v:layerMember="1" transform="translate(324.907,-364.712)">
+			<title>Динамическая соединительная линия.1612</title>
+			<path d="M7.09 595.28 L7.09 729.94" class="st14"/>
+		</g>
+		<g id="shape1613-855" v:mID="1613" v:groupContext="shape" v:layerMember="1" transform="translate(551.77,-365.176)">
+			<title>Динамическая соединительная линия.1613</title>
+			<path d="M7.09 595.28 L7.09 798.42" class="st14"/>
+		</g>
+		<g id="shape1614-858" v:mID="1614" v:groupContext="shape" transform="translate(1225.63,363.685) rotate(90)">
+			<title>Лист.1614</title>
+			<path d="M0 595.28 L74.17 595.28" class="st10"/>
+		</g>
+		<g id="shape1615-861" v:mID="1615" v:groupContext="shape" transform="translate(35.093,352.213) rotate(-90)">
+			<title>Лист.1615</title>
+			<path d="M0 595.28 L22.9 595.28" class="st10"/>
+		</g>
+		<g id="shape1616-864" v:mID="1616" v:groupContext="shape" v:layerMember="1" transform="translate(630.358,-274.949)">
+			<title>Динамическая соединительная линия.1223</title>
+			<path d="M0 595.28 L0 503.49 L-69.94 503.49" class="st14"/>
+		</g>
+		<g id="shape1617-867" v:mID="1617" v:groupContext="shape" v:layerMember="1" transform="translate(470.983,-364.982)">
+			<title>Динамическая соединительная линия.1617</title>
+			<path d="M7.09 595.28 L7.09 798.19" class="st14"/>
+		</g>
+		<g id="shape1618-870" v:mID="1618" v:groupContext="shape" transform="translate(530.117,-160.35)">
+			<title>Лист.1618</title>
+			<desc>10</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.84624" cy="590.74" width="9.7" height="9.07087"/>
+			<rect x="0" y="586.205" width="9.69248" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>10</text>		</g>
+		<g id="shape1619-873" v:mID="1619" v:groupContext="shape" transform="translate(605.447,-253.831)">
+			<title>Лист.1619</title>
+			<desc>GY 0.5 52</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan></text>		</g>
+		<g id="shape1621-877" v:mID="1621" v:groupContext="shape" transform="translate(604.88,-243.689)">
+			<title>Лист.1621</title>
+			<desc>14</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>14</text>		</g>
+		<g id="shape1622-880" v:mID="1622" v:groupContext="shape" transform="translate(174.298,-395.898)">
+			<title>Лист.1622</title>
+			<desc>CAN L</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="591.276" width="17.01" height="8"/>
+			<rect x="0" y="587.276" width="17.0079" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>CAN L</text>		</g>
+		<g id="shape1623-883" v:mID="1623" v:groupContext="shape" transform="translate(138.865,-395.898)">
+			<title>Лист.1623</title>
+			<desc>CAN H</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>CAN H</text>		</g>
+		<g id="group1626-886" transform="translate(737.84,320.423) rotate(90)" v:mID="1626" v:groupContext="group">
+			<title>Лист.1626</title>
+			<g id="shape1627-887" v:mID="1627" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1628-891" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1628" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1629-892" v:mID="1629" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1629</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1630-894" v:mID="1630" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1630</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1631-897" v:mID="1631" v:groupContext="shape" transform="translate(146.752,-274.884)">
+			<title>Лист.1631</title>
+			<desc>25</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>25</text>		</g>
+		<g id="shape1632-900" v:mID="1632" v:groupContext="shape" transform="translate(181.684,918.392) rotate(180)">
+			<title>Лист.1632</title>
+			<path d="M0 595.28 L34.67 595.28" class="st13"/>
+		</g>
+		<g id="shape1633-903" v:mID="1633" v:groupContext="shape" transform="translate(181.673,-274.884)">
+			<title>Лист.1633</title>
+			<desc>24</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>24</text>		</g>
+		<g id="group1634-906" transform="translate(772.666,320.423) rotate(90)" v:mID="1634" v:groupContext="group">
+			<title>Лист.1634</title>
+			<g id="shape1635-907" v:mID="1635" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1636-911" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1636" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1637-912" v:mID="1637" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1637</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1638-914" v:mID="1638" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1638</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1639-917" notetype="main" noteid="7776,7776" v:mID="1639" v:groupContext="shape" transform="translate(121.885,-265.813)">
+			<title>Лист.1639</title>
+			<desc>С203</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С203</text>		</g>
+		<g id="group1640-920" transform="translate(737.84,373.415) rotate(90) scale(-1,1)" v:mID="1640" v:groupContext="group">
+			<title>Лист.1640</title>
+			<g id="shape1641-921" v:mID="1641" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1642-925" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1642" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1643-926" v:mID="1643" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1643</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1644-928" v:mID="1644" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1644</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1645-931" v:mID="1645" v:groupContext="shape" transform="translate(146.752,-230.152)">
+			<title>Лист.1645</title>
+			<desc>G</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>G</text>		</g>
+		<g id="shape1646-934" v:mID="1646" v:groupContext="shape" transform="translate(181.684,965.219) rotate(180)">
+			<title>Лист.1646</title>
+			<path d="M0 595.28 L34.67 595.28" class="st13"/>
+		</g>
+		<g id="shape1647-937" v:mID="1647" v:groupContext="shape" transform="translate(181.673,-230.152)">
+			<title>Лист.1647</title>
+			<desc>H</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="7.22835" cy="591.449" width="14.46" height="7.65354"/>
+			<rect x="0" y="587.622" width="14.4567" height="7.65354" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>H</text>		</g>
+		<g id="group1648-940" transform="translate(772.674,373.415) rotate(90) scale(-1,1)" v:mID="1648" v:groupContext="group">
+			<title>Лист.1648</title>
+			<g id="shape1649-941" v:mID="1649" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1650-945" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1650" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1651-946" v:mID="1651" v:groupContext="shape" v:layerMember="0" transform="translate(6.02362,-3.14961)">
+					<title>Лист.1651</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1652-948" v:mID="1652" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1652</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1653-951" notetype="main" noteid="7790" v:mID="1653" v:groupContext="shape" transform="translate(121.885,-221.648)">
+			<title>Лист.1653</title>
+			<desc>C134-A</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="3.53" y="592.24" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>C134-A</text>		</g>
+		<g id="shape1654-954" v:mID="1654" v:groupContext="shape" transform="translate(146.996,-253.831)">
+			<title>Лист.1654</title>
+			<desc>GY 0.5 52</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.74409" cy="591.276" width="19.49" height="8"/>
+			<rect x="0" y="587.276" width="19.4882" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">5</tspan><tspan class="st3">2</tspan></text>		</g>
+		<g id="shape1655-959" v:mID="1655" v:groupContext="shape" transform="translate(181.602,-253.831)">
+			<title>Лист.1655</title>
+			<desc>BN/WH 0.5 51</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.0315" cy="591.276" width="28.07" height="8"/>
+			<rect x="0" y="587.276" width="28.063" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan></text>		</g>
+		<g id="shape1656-963" v:mID="1656" v:groupContext="shape" transform="translate(300.458,-160.733)">
+			<title>Лист.1656</title>
+			<path d="M0 595.28 L36 595.28 L36 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1657-965" v:mID="1657" v:groupContext="shape" v:layerMember="0" transform="translate(300.774,-158.607)">
+			<title>Контакт.1657</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Контакт. Для перемещения текста используйте маркер управления.)"/>
+			</v:userDefs>
+			<path d="M0 593.43 A1.84252 1.84252 0 0 1 3.69 593.43 A1.84252 1.84252 0 1 1 0 593.43 Z" class="st11"/>
+		</g>
+		<g id="shape1658-967" v:mID="1658" v:groupContext="shape" v:layerMember="0" transform="translate(329.963,-158.607)">
+			<title>Контакт.1658</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(Контакт. Для перемещения текста используйте маркер управления.)"/>
+			</v:userDefs>
+			<path d="M0 593.43 A1.84252 1.84252 0 0 1 3.69 593.43 A1.84252 1.84252 0 1 1 0 593.43 Z" class="st11"/>
+		</g>
+		<g id="shape1659-969" notetype="main" noteid="7800" v:mID="1659" v:groupContext="shape" transform="translate(279.793,-160.449)">
+			<title>Лист.1659</title>
+			<desc>C260</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>C260</text>		</g>
+		<g id="shape1660-972" v:mID="1660" v:groupContext="shape" transform="translate(297.052,-130.102)">
+			<title>Лист.1660</title>
+			<path d="M0 595.28 L42.6 595.28 L42.6 562.96 L0 562.96 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1661-974" v:mID="1661" v:groupContext="shape" transform="translate(297.132,-130.118)">
+			<title>Лист.1661</title>
+			<desc>M209 Иммобилайзер</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="579.26" width="42.52" height="32.0315"/>
+			<rect x="0" y="563.244" width="42.5197" height="32.0315" class="st1"/>
+			<text x="15.15" y="577.76" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M209<v:newlineChar/><tspan
+						x="4.37" dy="1.2em" class="st6" v:langID="1049">Иммобилайзер</tspan></text>		</g>
+		<g id="shape1662-978" v:mID="1662" v:groupContext="shape" transform="translate(302.745,-160.449)">
+			<title>Лист.1662</title>
+			<desc>7</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="3.74223" cy="590.74" width="7.49" height="9.07087"/>
+			<rect x="0" y="586.205" width="7.48447" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>7</text>		</g>
+		<g id="shape1663-981" v:mID="1663" v:groupContext="shape" transform="translate(331.822,-160.449)">
+			<title>Лист.1663</title>
+			<desc>8</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="3.49978" cy="590.74" width="7" height="9.07087"/>
+			<rect x="0" y="586.205" width="6.99957" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>8</text>		</g>
+		<g id="shape1664-984" notetype="main" noteid="7793" v:mID="1664" v:groupContext="shape" transform="translate(123.289,-160.016)">
+			<title>Лист.1664</title>
+			<desc>С135</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="8.8" y="592.24" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>С13<tspan class="st6"
+						v:langID="1033">5</tspan></text>		</g>
+		<g id="shape1665-988" v:mID="1665" v:groupContext="shape" transform="translate(182.006,-160.016)">
+			<title>Лист.1665</title>
+			<desc>14</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>14</text>		</g>
+		<g id="shape1666-991" v:mID="1666" v:groupContext="shape" transform="translate(898.082,367.3) rotate(90)">
+			<title>Лист.1666</title>
+			<path d="M0 595.28 L64.98 595.28" class="st10"/>
+		</g>
+		<g id="shape1667-994" v:mID="1667" v:groupContext="shape" transform="translate(927.233,365.4) rotate(90)">
+			<title>Лист.1667</title>
+			<path d="M0 595.28 L67.64 595.28" class="st10"/>
+		</g>
+		<g id="shape1669-997" v:mID="1669" v:groupContext="shape" transform="translate(87.0526,-292.315)">
+			<title>Лист.1669</title>
+			<desc>BK 0.5 247б</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.49409" cy="591.276" width="16.99" height="8"/>
+			<rect x="0" y="587.276" width="16.9882" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BK <tspan class="st6" v:langID="1049">0</tspan>.5<v:newlineChar/><tspan
+						x="1" dy="1.2em" class="st3" v:langID="1049">247</tspan><tspan class="st3" v:langID="1049">б</tspan></text>		</g>
+		<g id="shape1670-1003" v:mID="1670" v:groupContext="shape" transform="translate(83.6905,-283.752)">
+			<title>Лист.1670</title>
+			<path d="M0 595.28 L15.25 595.28 L15.25 589.04 L0 589.04 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1674-1005" v:mID="1674" v:groupContext="shape" transform="translate(87.0744,-383.163)">
+			<title>Лист.1674</title>
+			<desc>4</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="6.66142" cy="591.276" width="13.33" height="8"/>
+			<rect x="0" y="587.276" width="13.3228" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>4</text>		</g>
+		<g id="shape1675-1008" v:mID="1675" v:groupContext="shape" transform="translate(682.172,263.401) rotate(90.0727)">
+			<title>Лист.1675</title>
+			<path d="M0 595.28 L60.36 595.28" class="st10"/>
+		</g>
+		<g id="shape1676-1011" v:mID="1676" v:groupContext="shape" transform="translate(682.171,201.508) rotate(90)">
+			<title>Лист.1676</title>
+			<path d="M0 595.28 L49.07 595.28" class="st10"/>
+		</g>
+		<g id="shape1678-1014" v:mID="1678" v:groupContext="shape" transform="translate(86.8957,-375.528)">
+			<title>Лист.1678</title>
+			<desc>WH 0.5 44</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="11.3386" cy="591.276" width="22.68" height="8"/>
+			<rect x="0" y="587.276" width="22.6772" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3">44</tspan></text>		</g>
+		<g id="shape1680-1018" v:mID="1680" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-506.112,201.508) rotate(-90)">
+			<title>Адаптер.1680</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+			</v:userDefs>
+			<path d="M0 593.57 L0 592.44 L0 593.57 Z" class="st12"/>
+			<path d="M0 593.57 L0 592.44 L0 593.57" class="st10"/>
+			<path d="M1.98 590.74 A2.28796 2.28796 -180 0 0 1.98 595.28" class="st10"/>
+		</g>
+		<g id="shape1681-1022" notetype="main" noteid="7788" v:mID="1681" v:groupContext="shape" transform="translate(58.0773,-267.311)">
+			<title>Лист.1681</title>
+			<desc>G104</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.3386" cy="592.724" width="22.68" height="5.10236"/>
+			<rect x="0" y="590.173" width="22.6772" height="5.10236" class="st1"/>
+			<text x="10.57" y="594.22" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>G<tspan class="st6"
+						v:langID="1049">104</tspan></text>		</g>
+		<g id="shape1682-1026" notetype="main" noteid="7785,7785" v:mID="1682" v:groupContext="shape" transform="translate(62.2377,-302.835)">
+			<title>Лист.1682</title>
+			<desc>C126</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.2717" cy="590.51" width="20.55" height="9.5315"/>
+			<rect x="0" y="585.744" width="20.5433" height="9.5315" class="st1"/>
+			<text x="8.71" y="592.01" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>C126</text>		</g>
+		<g id="shape1683-1029" v:mID="1683" v:groupContext="shape" transform="translate(87.0329,-312.432)">
+			<title>Лист.1683</title>
+			<desc>18</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="3.54331" cy="591.57" width="7.09" height="7.41057"/>
+			<rect x="0" y="587.865" width="7.08661" height="7.41057" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1049"><v:paragraph/><v:tabList/>18</text>		</g>
+		<g id="group1684-1032" transform="translate(677.913,282.945) rotate(90)" v:mID="1684" v:groupContext="group">
+			<title>Лист.1684</title>
+			<g id="shape1685-1033" v:mID="1685" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1686-1037" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1686" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1687-1038" v:mID="1687" v:groupContext="shape" v:layerMember="0"
+						transform="translate(6.02362,-3.14961)">
+					<title>Лист.1687</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1688-1040" v:mID="1688" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1688</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1689-1043" v:mID="1689" v:groupContext="shape" transform="translate(86.7072,-272.878)">
+			<title>Лист.1689</title>
+			<desc>BK 0.5 247а</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.50394" cy="591.276" width="17.01" height="8"/>
+			<rect x="0" y="587.276" width="17.0079" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BK <tspan class="st6" v:langID="1049">0</tspan>.5<v:newlineChar/><tspan
+						x="1" dy="1.2em" class="st3" v:langID="1049">247</tspan><tspan class="st3" v:langID="1049">а</tspan></text>		</g>
+		<g id="shape1690-1049" v:mID="1690" v:groupContext="shape" transform="translate(-508.66,286.488) rotate(-90)">
+			<title>Лист.1690</title>
+			<path d="M0 595.28 L0.57 595.28" class="st10"/>
+		</g>
+		<g id="shape1691-1052" notetype="main" noteid="7782,7782" v:mID="1691" v:groupContext="shape" transform="translate(62.1567,-335.181)">
+			<title>Лист.1691</title>
+			<desc>C205</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.2717" cy="590.598" width="20.55" height="9.35433"/>
+			<rect x="0" y="585.921" width="20.5433" height="9.35433" class="st1"/>
+			<text x="8.71" y="592.1" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>C205</text>		</g>
+		<g id="shape1692-1055" v:mID="1692" v:groupContext="shape" transform="translate(86.8709,-344.859)">
+			<title>Лист.1692</title>
+			<desc>33</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+			<v:textRect cx="4.04949" cy="591.611" width="8.1" height="7.32958"/>
+			<rect x="0" y="587.946" width="8.09899" height="7.32958" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>33</text>		</g>
+		<g id="group1693-1058" transform="translate(677.973,250.598) rotate(90)" v:mID="1693" v:groupContext="group">
+			<title>Лист.1693</title>
+			<g id="shape1694-1059" v:mID="1694" v:groupContext="shape" v:layerMember="0"
+					transform="translate(8.9891,1182.05) rotate(180)">
+				<title>Адаптер.146</title>
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Адаптер типа &#34;штекер-гнездо&#34;. Используйте правую кнопку мыши, чтобы выбрать &#34;штекер-штекер&#34;.)"/>
+				</v:userDefs>
+				<path d="M0 592.13 L0 590.03 L0 592.13 Z" class="st12"/>
+				<path d="M0 592.13 L0 590.03 L0 592.13" class="st10"/>
+				<path d="M3.71 586.88 A4.23221 4.23221 -180 0 0 3.71 595.28" class="st10"/>
+			</g>
+			<g id="group1695-1063" transform="translate(12.0472,1182.15) rotate(180)" v:mID="1695" v:groupContext="group"
+					v:layerMember="0">
+				<v:custProps>
+					<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="1049" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AT" v:prompt="Action toggle" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CH"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="visDescription"
+							v:val="VT4(Контакт типа штекер/гнездо, форма 2. Используйте правую кнопку мыши для переключения между типами контакта.)"/>
+				</v:userDefs>
+				<title>Штекер/гнездо 2.305</title>
+				<g id="shape1696-1064" v:mID="1696" v:groupContext="shape" v:layerMember="0"
+						transform="translate(6.02362,-3.14961)">
+					<title>Лист.1696</title>
+					<rect x="0" y="593.176" width="6.02362" height="2.09974" class="st5"/>
+				</g>
+				<g id="shape1697-1066" v:mID="1697" v:groupContext="shape" v:layerMember="0">
+					<title>Лист.1697</title>
+					<path d="M0 591.08 L6.02 591.08" class="st10"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1698-1069" v:mID="1698" v:groupContext="shape" transform="translate(95.3996,903.681) rotate(180)">
+			<title>Лист.1698</title>
+			<path d="M0 595.28 L7.95 595.28" class="st10"/>
+		</g>
+		<g id="shape1699-1072" v:mID="1699" v:groupContext="shape" v:layerMember="0" transform="translate(85.3913,-285.295)">
+			<title>Контакт цепи.1699</title>
+			<v:custProps>
+				<v:cp v:nameU="Label" v:lbl="Подпись" v:type="0" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="visDescription"
+						v:val="VT4(Контакт цепи. Для размещения номера контакта используйте маркер управления текстового блока.)"/>
+			</v:userDefs>
+			<path d="M0 593.72 A1.55906 1.55906 0 0 1 3.12 593.72 A1.55906 1.55906 0 1 1 0 593.72 Z" class="st5"/>
+		</g>
+		<g id="shape1700-1074" v:mID="1700" v:groupContext="shape" transform="translate(66.2027,-282.902)">
+			<title>Лист.1700</title>
+			<desc>J110 л2</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="8.7874" cy="591.276" width="17.58" height="8"/>
+			<rect x="0" y="587.276" width="17.5748" height="8" class="st1"/>
+			<text x="7.13" y="592.78" class="st2" v:langID="1049"><v:paragraph v:horizAlign="2"/><v:tabList/>J110<v:newlineChar/><tspan
+						x="11.58" dy="1.2em" class="st3">л</tspan><tspan class="st3">2</tspan></text>		</g>
+		<g id="shape1701-1079" v:mID="1701" v:groupContext="shape" transform="translate(-479.826,455.026) rotate(-104.07)">
+			<title>Лист.1701</title>
+			<path d="M0 593.79 C0.41 593.95 0.38 593.62 0.41 593.37 C0.54 592.31 1.73 592.45 2.14 593.15 C2.41 593.61 2.35 594.31
+						 2.58 594.74 C3.07 595.69 4.93 595.4 4.82 593.79" class="st10"/>
+		</g>
+		<g id="group1702-1082" transform="translate(81.1513,-267.311)" v:mID="1702" v:groupContext="group">
+			<title>Лист.1702</title>
+			<g id="shape1703-1083" v:mID="1703" v:groupContext="shape" transform="translate(0,-3.40157)">
+				<title>Лист.1703</title>
+				<path d="M0 595.28 L11.34 595.28" class="st10"/>
+			</g>
+			<g id="shape1704-1086" v:mID="1704" v:groupContext="shape" transform="translate(2.26772,-1.70079)">
+				<title>Лист.1704</title>
+				<path d="M0 595.28 L6.8 595.28" class="st10"/>
+			</g>
+			<g id="shape1705-1089" v:mID="1705" v:groupContext="shape" transform="translate(3.9685,0)">
+				<title>Лист.1705</title>
+				<path d="M0 595.28 L3.97 595.28" class="st10"/>
+			</g>
+			<g id="shape1706-1092" v:mID="1706" v:groupContext="shape" transform="translate(-589.606,591.874) rotate(-90)">
+				<title>Лист.1706</title>
+				<path d="M0 595.28 L2.82 595.28" class="st10"/>
+			</g>
+		</g>
+		<g id="shape1707-1095" v:mID="1707" v:groupContext="shape" transform="translate(86.4631,-324.445)">
+			<title>Лист.1707</title>
+			<desc>WH 0.5 44</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="16.9882" cy="591.276" width="33.98" height="8"/>
+			<rect x="0" y="587.276" width="33.9764" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">44</tspan></text>		</g>
+		<g id="shape1708-1099" v:mID="1708" v:groupContext="shape" transform="translate(630.358,949.445) rotate(180)">
+			<title>Лист.1708</title>
+			<path d="M0 595.28 L25.09 595.28" class="st13"/>
+		</g>
+		<g id="shape1709-1102" v:mID="1709" v:groupContext="shape" transform="translate(747.562,-161.164)">
+			<title>Лист.1709</title>
+			<path d="M0 595.28 L36.22 595.28 L36.22 587.91 L0 587.91 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape1710-1104" v:mID="1710" v:groupContext="shape" transform="translate(745.719,-130.25)">
+			<title>Лист.1710</title>
+			<path d="M0 595.28 L42.52 595.28 L42.52 562.96 L0 562.96 L0 595.28 Z" class="st8"/>
+		</g>
+		<g id="shape1711-1106" notetype="main" noteid="7822" v:mID="1711" v:groupContext="shape" transform="translate(726.869,-160.88)">
+			<title>Лист.1711</title>
+			<desc>C301-B</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.3191" cy="590.74" width="20.64" height="9.07087"/>
+			<rect x="0" y="586.205" width="20.6382" height="9.07087" class="st1"/>
+			<text x="3.8" y="592.24" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>C301-B</text>		</g>
+		<g id="shape1712-1109" v:mID="1712" v:groupContext="shape" transform="translate(747.074,-130.25)">
+			<title>Лист.1712</title>
+			<desc>M301 Блок управления электропакетом</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.5826" cy="578.976" width="41.17" height="32.5984"/>
+			<rect x="0" y="562.677" width="41.1651" height="32.5984" class="st1"/>
+			<text x="14.47" y="571.48" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>M301<v:newlineChar/><v:paragraph
+						v:horizAlign="1"/><tspan x="14.84" dy="1.2em" class="st6" v:langID="1049">Блок </tspan><tspan x="7.16"
+						dy="1.2em" class="st6" v:langID="1049">управления </tspan><tspan x="2.26" dy="1.2em" class="st6"
+						v:langID="1049">электропакетом</tspan></text>		</g>
+		<g id="shape1713-1115" v:mID="1713" v:groupContext="shape" transform="translate(778.622,-160.88)">
+			<title>Лист.1713</title>
+			<desc>5</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.84624" cy="590.74" width="9.7" height="9.07087"/>
+			<rect x="0" y="586.205" width="9.69248" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>5</text>		</g>
+		<g id="shape1714-1118" v:mID="1714" v:groupContext="shape" transform="translate(749.835,-160.88)">
+			<title>Лист.1714</title>
+			<desc>4</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.84624" cy="590.74" width="9.7" height="9.07087"/>
+			<rect x="0" y="586.205" width="9.69248" height="9.07087" class="st1"/>
+			<text x="1" y="592.24" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>4</text>		</g>
+		<g id="shape1724-1121" v:mID="1724" v:groupContext="shape" transform="translate(630.331,-289.764)">
+			<title>Лист.1724</title>
+			<desc>BN/WH 0.5 51с</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.2624" cy="591.276" width="28.53" height="8"/>
+			<rect x="0" y="587.276" width="28.5249" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">с</tspan></text>		</g>
+		<g id="shape1725-1126" v:mID="1725" v:groupContext="shape" transform="translate(1374.32,228.418) rotate(90)">
+			<title>Лист.1725</title>
+			<path d="M0 595.28 L204.43 595.28" class="st10"/>
+		</g>
+		<g id="shape1726-1129" v:mID="1726" v:groupContext="shape" transform="translate(631.249,-366.898)">
+			<title>Лист.1726</title>
+			<path d="M0 595.28 L147.81 595.28" class="st10"/>
+		</g>
+		<g id="shape1727-1132" v:mID="1727" v:groupContext="shape" transform="translate(779.133,-256.726)">
+			<title>Лист.1727</title>
+			<desc>BN/WH 0.5 51р</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="14.7302" cy="591.276" width="29.47" height="8"/>
+			<rect x="0" y="587.276" width="29.4603" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>BN/WH 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">51</tspan><tspan class="st3" v:langID="1049">р</tspan></text>		</g>
+		<g id="shape1728-1137" v:mID="1728" v:groupContext="shape" transform="translate(750.331,-256.472)">
+			<title>Лист.1728</title>
+			<desc>GY 0.5 52р</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">р</tspan></text>		</g>
+		<g id="shape1729-1142" v:mID="1729" v:groupContext="shape" v:layerMember="1" transform="translate(606.75,-315.496)">
+			<title>Динамическая соединительная линия.1729</title>
+			<path d="M0 595.28 L21.25 595.28 A2.3622 2.3622 0 0 1 25.97 595.28 L143.58 595.28 L143.58 748.35" class="st14"/>
+		</g>
+		<g id="shape1730-1145" v:mID="1730" v:groupContext="shape" transform="translate(564.661,-314.757)">
+			<title>Лист.1730</title>
+			<desc>GY 0.5 52п</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">п</tspan></text>		</g>
+		<g id="shape1731-1150" v:mID="1731" v:groupContext="shape" transform="translate(605.48,-289.953)">
+			<title>Лист.1731</title>
+			<desc>GY 0.5 52с</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="9.92126" cy="591.276" width="19.85" height="8"/>
+			<rect x="0" y="587.276" width="19.8425" height="8" class="st1"/>
+			<text x="1" y="592.78" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>GY 0.5<v:newlineChar/><tspan x="1"
+						dy="1.2em" class="st3" v:langID="1049">52</tspan><tspan class="st3" v:langID="1049">с</tspan></text>		</g>
+		<g id="shape1734-1155" v:mID="1734" v:groupContext="shape" transform="translate(22.5354,-559.61)">
+			<title>Лист.1734</title>
+			<desc>1.1.2 Шина передачи данных HS CAN (после 10.2017)</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="402.165" cy="586.939" width="804.34" height="16.6732"/>
+			<rect x="0" y="578.602" width="804.331" height="16.6732" class="st1"/>
+			<text x="1" y="592.2" class="st17" v:langID="1049"><v:paragraph/><v:tabList/>1.1.2 Шина передачи данных <tspan
+						class="st6" v:langID="1033">HS CAN</tspan> (после 10.2017)</text>		</g>
+	</g>
+</svg>
